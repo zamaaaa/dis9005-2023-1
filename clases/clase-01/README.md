@@ -80,3 +80,5 @@ dentro de esta etiqueta, hay dos secciones principales, el encabezado (HEAD) y e
 aprendamos cómo hacer párrafos y texto usando la referencia en https://www.w3schools.com/
 
 ahora aprendamos cómo darle un título a nuestra página web con la misma referencia.
+
+agreguemos una imagen a nuestra web
