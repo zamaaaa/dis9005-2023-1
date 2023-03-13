@@ -45,8 +45,8 @@ unidad 2: sitios web dinámicos
 
 la nota final de la clase será el promedio simple de estas evaluaciones:
 
-- ejercicio 01
-- ejercicio 02
+- prueba solemne 01
+- prueba solemne 02
 - examen
 
 ## clases (lunes 10am-6:15pm)
