@@ -26,8 +26,38 @@ lunes 20 marzo 2023, presencial
 
 ## código CSS en el mismo archivo HTML
 
+## tipografía, color
+
+```css
+body {
+  background-color: #fff;
+  max-width: 100%;
+  font-family: sans-serif;
+  margin: 30px;
+}
+```
+
+````css
+a:hover,
+a:active {
+
+color: magenta;
+border: 1px solid;
+box-shadow: 5px 10px greenyellow;
+}
+```css
+
 ## código CSS en su propio archivo
 
-## ID class
+## ID y class
+
+las clases se identifican con .
+
+las id con #
 
 ## cuenta en Github.com
+````
+
+tarea:
+
+crear una página web con un archivo HTML y un archivo CSS y subir a github.com
