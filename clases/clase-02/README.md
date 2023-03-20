@@ -10,7 +10,14 @@ lunes 20 marzo 2023, presencial
 <html>
   <head></head>
   <body>
-    <p>a con tilde: &aacute</p>
+    <ul>
+      <li>a con acento acute: &aacute;</li>
+      <li>e con acento acute: &eacute;</li>
+      <li>i con acento acute: &iacute;</li>
+      <li>o con acento acute: &oacute;</li>
+      <li>u con acento acute: &uacute;</li>
+      <li>n con acento tilde: &ntilde;</li>
+    </ul>
   </body>
 </html>
 ```
