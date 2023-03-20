@@ -1,7 +1,5 @@
 # dis9005-2023-1
 
-# aud20004-2022-2
-
 ## acerca de
 
 - universidad: Universidad Diego Portales
