@@ -81,4 +81,8 @@ aprendamos cómo hacer párrafos y texto usando la referencia en https://www.w3s
 
 ahora aprendamos cómo darle un título a nuestra página web con la misma referencia.
 
-agreguemos una imagen a nuestra web
+agreguemos una imagen a nuestra web así
+
+```
+<img src="unaDireccion">
+```
