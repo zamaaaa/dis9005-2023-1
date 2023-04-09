@@ -9,8 +9,8 @@
 - sección: 01
 - créditos: 05
 - semestre: primer semestre 2023
-- profesor: [aarón montoya-moraga](https://montoyamoraga.io)
-- ayudante: -
+- profesor: [aarón montoya-moraga](https://github.com/montoyamoraga/)
+- ayudante: [francisca wright](https://github.com/Frantastic10)
 - estudiantes inscritos: 28
 
 ## repositorio
