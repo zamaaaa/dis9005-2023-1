@@ -2,7 +2,7 @@
 
 10 abril 2023
 
-## entregas:
+## entregas
 
 - [anaisoa](./anaisoa/)
 - [ariwi20](./ariwi20/)
