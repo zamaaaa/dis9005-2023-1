@@ -15,7 +15,8 @@
 
 ## repositorio
 
-- [clases](./clases/): una subcarpeta por cada clase.
+- [clases](./clases/): una subcarpeta por cada clase
+- [solemne-01](./solemne-01/): una subcarpeta por cada entrega de solemne-01
 
 ## contenidos
 
