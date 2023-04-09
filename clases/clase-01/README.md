@@ -86,3 +86,7 @@ agreguemos una imagen a nuestra web así
 ```
 <img src="unaDireccion">
 ```
+
+## bibliografía adicional
+
+- https://www.w3schools.com/html/default.asp

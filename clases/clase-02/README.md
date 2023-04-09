@@ -24,6 +24,8 @@ lunes 20 marzo 2023, presencial
 
 ## leer páginas web
 
+para leer páginas web, usar las herramientas de desarolladores en tu navegador, se recomienda Google Chrome o Mozilla Firefox, no se recomienda Apple Safari.
+
 ## código CSS en el mismo archivo HTML
 
 ## tipografía, color
@@ -37,26 +39,26 @@ body {
 }
 ```
 
-````css
+```css
 a:hover,
 a:active {
-
-color: magenta;
-border: 1px solid;
-box-shadow: 5px 10px greenyellow;
+  color: magenta;
+  border: 1px solid;
+  box-shadow: 5px 10px greenyellow;
 }
-```css
+```
 
 ## código CSS en su propio archivo
+
+puedes
 
 ## ID y class
 
 las clases se identifican con .
 
-las id con #
+las id con # bla
 
 ## cuenta en Github.com
-````
 
 tarea:
 
