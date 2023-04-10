@@ -1,12 +1,22 @@
-
 body {
-    background-color: rgb(190, 245, 227);
+    background-image: url(https://img.freepik.com/foto-gratis/vista-papel-arrugado-blanco_1194-7544.jpg?w=2000);
 }
+/* https://www.w3schools.com/css/tryit.asp?filename=trycss3_background_multiple2 */
 h1 {
-    font-family: cursive; color: rgb(1, 57, 1);
+    font-family: cursive; color: rgb(255, 255, 255); background-color: rgb(255, 0, 0);
 }
+/* https://www.w3schools.com/css/tryit.asp?filename=trycss_background-color_elements */
 p {
-    color: rgb(1, 57, 1);
+    color: rgb(255, 255, 255); font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; background-color: rgb(255, 0, 0);
 }
+/* cambiar familias tipograficas y color tipografico aprendido en clases   */
+ul {
+    color: rgb(255, 0, 0); font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-size: larger; 
+}
+img {
+    max-width: 50%;
+    height: auto;
+  }
+  /* https://www.w3schools.com/css/tryit.asp?filename=trycss_background-color_elements */
 
 
