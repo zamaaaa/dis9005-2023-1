@@ -1,0 +1,23 @@
+
+    body {
+        background-color:#DFD0BB;
+    }
+    h3 {
+        font-family: monospace; color:#943D2C;
+    }
+    h4 {
+        font-family: monospace; color:#943D2C; 
+    }
+    p {
+        font-family: monospace; color:#474344;
+    }
+    h2 {
+        font-family: monospace; color:#943D2C; 
+    }
+    .lista {
+        font-family: monospace; color:#474344;
+    }
+    h1 {
+        font-family: monospace; color:#943D2C; text-align: center;
+    }
+    /* Centrar texto: https://internetctrl.com/como-centrar-un-texto-en-html/ */
