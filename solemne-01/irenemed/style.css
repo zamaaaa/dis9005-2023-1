@@ -1,0 +1,20 @@
+h1 {
+  font-family: sans-serif;
+  color: blue;
+}
+h5 {
+  font-family: sans-serif;
+}
+ol {
+  font-family: sans-serif;
+}
+img {
+ width: 15%;
+}
+p {
+    background-color: rgb(173, 230, 204);
+    color: black;
+    padding: 40px;
+    text-align: left;
+    font-family: sans-serif;
+  }

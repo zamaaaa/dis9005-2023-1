@@ -1,19 +1,15 @@
-console.log("hola");
-        console. log ("ancho: " + window.innerWidth)
-        let par;
+  //  aprendido en clases
+    
         par = document.getElementById("parrafito")
         if (window.innerWidth < 1000) {
-            par. innerHTML = "menos a 1000 px";
+            par. innerHTML = "Plantas carn&iacute;voras cel";
         }
         else{
-             par.innerHTML = "mayor o igual a 1000 px"; 
+             par.innerHTML = "Plantas carn&iacute;voras pc"; 
          }
+        
+ 
+        //  https://www.w3schools.com/js/tryit.asp?filename=tryjs_date_date
+         const d = new Date("2022-03-25");
 
-         let captura;
-
-         function setup() {
-            creativeCanvas(1000, 800);
-            noCursor();
-            captura = creativeCature(VIDEO);
-            captura.hide();
-         }
+document.getElementById("fecha").innerHTML = d;

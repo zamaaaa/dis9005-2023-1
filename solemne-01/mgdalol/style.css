@@ -5,11 +5,13 @@ h1 { font-family:Georgia, 'Times New Roman', Times, serif;
 }  
 body { background-color: black;}
 .cuadro {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(229, 255, 252);
     color: rgb(0, 0, 0);
-    border: 2px solid black;
-    margin: 20px;
-    padding: 20px;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
   }
 .sub { color:rgb(35, 7, 13);
 font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
+.lista { font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
