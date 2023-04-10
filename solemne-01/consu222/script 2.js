@@ -1,25 +1,4 @@
-console.log("hola mundo :)");
-    console.log("ancho: " + window.innerWidth);
-    let par;
-    par = document.getElementById("parrafito")
-    if (window.innerWidth < 700)  {
-        par.innerHTML = "menor a 700 px";
-    }
-    else {
-        par.innerHTML = "mayor o igual a 700 px";
-    }
 
-    let captura;
-
-    function setup() {
-        createCanvas(800, 600);
-        noCursor();
-        captura = createCapture(VIDEO)
-        captura.hide();
-      }
-      
-      function draw() {
-        background(200, 70, 200);
-        image(captura, 0, 0, 200, 200);
-        ellipse(mouseX, mouseY, 100, 100);
-      }                                                                                                                  
+<><h1>My First JavaScript</h1><button type="button"
+  onclick="document.getElementById('demo').innerHTML = Date()">
+  Click me to display Date and Time.</button><p id="demo"></p></>
