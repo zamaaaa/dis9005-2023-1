@@ -1,0 +1,23 @@
+
+body {
+    background-color: rgb(192, 164, 192);
+}
+@media screen  and (max-width: 800px){
+    .colorido {
+        background-color: beige;
+    }
+}
+    
+p {
+    color: black;
+}
+h1 {
+    font-family: sans-serif; color: black;
+    font-size: medium;
+}
+.Victoria {
+    font-weight: 16;
+}
+ul {
+    color: black;
+}
