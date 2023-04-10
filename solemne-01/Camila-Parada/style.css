@@ -1,0 +1,21 @@
+
+title {
+
+    font-family: Arial;
+    font-size: x-large;
+
+}
+    
+    body {
+        background-color: bisque;
+
+    }
+    p {
+
+        background-color: bisque;
+        background-image: rgb(74, 52, 9);
+        font-size: small;
+        font-family: 'Franklin Gothic Medium', Helvetica, sans-serif;
+
+    }
+
