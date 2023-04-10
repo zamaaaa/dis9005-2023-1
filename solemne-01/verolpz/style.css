@@ -2,8 +2,10 @@
 p {
     background-color: rgb(205, 152, 255);
     color: rgb(255, 255, 255);
-    padding: 50px;
+    padding: 30px;
     text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
   }
 
   /* Fondo rosado con letras blancas para párrafo https://www.w3schools.com/html/tryit.asp?filename=tryhtml_id_class */
@@ -12,9 +14,13 @@ p {
     color: white;
     padding: 20px;
   }
-
+/* Nueva clase de párrafo con fondo celeste y letra más pequeña */
   .shihtzu {
-    background-color: rgb(152, 155, 255);
+    background-color: rgb(124, 208, 230);
     color: rgb(255, 255, 255);
-    font-size: 15px;
+    font-size: x-small;
+    padding: 20px;
+
 }
+
+
