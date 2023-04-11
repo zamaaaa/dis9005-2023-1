@@ -14,3 +14,6 @@ Espero que lo disfrute
 </body>
 
 <!-- Me puso ansiosa esta solemne :( -->
+
+<img src= "https://japonpop.japonshop.com/wp-content/uploads/2014/02/cafe-gato-kawaii-japones-japonshop013.jpg">
+<!-- Subì esta foto esperando a la fran esperando que nos ayude -->
