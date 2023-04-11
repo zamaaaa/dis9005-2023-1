@@ -1,4 +1,6 @@
 // Intento de poner borde en la imagen en java
+// la web no tiene java, tiene javascript!!
+
 console.log("probando 1 2 3");
             console.log("ancho: " + window.innerWidth);
             
