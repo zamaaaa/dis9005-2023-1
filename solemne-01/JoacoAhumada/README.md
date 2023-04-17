@@ -1,2 +1,2 @@
 # entrega
-![alt text](Pantallazo.png"logo")
+![alt text](Pantallazo.png "logo")
