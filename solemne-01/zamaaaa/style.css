@@ -1,0 +1,16 @@
+
+/* inspirado en https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_center-list */
+
+div.contenedor {
+    text-align: center;
+  }
+  
+  ul.miLista {
+    display: inline-block;
+    text-align: left;
+  }
+
+body {
+
+        background-color:darkblue;
+    }
