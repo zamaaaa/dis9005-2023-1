@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <link rel="stylesheet" href="style.css">
+
+
+
+</head>
+<body>
+    <h1>"Your new balance"</h1>
+<h2>Expresionismo moderno</h2>
+
+<p>
+El fabricante de sportwear presenta su nuevo modelo New Balance 9060, una silueta que, seg&uacute;n se predice, causar&aacute; furor entre los sneakerheads. 
+<!-- siempre usar url relativa -->
+<!-- sacado de la pagina https://www.w3schools.com/html/html_images.asp -->
+<img src="https://media.gq.com.mx/photos/62d0406313aefac9f9d30061/master/w_1600,c_limit/new-balance-introduces-9060-u9060mac-release-date-4.jpeg" alt="Girl with a jacket" width="900" height="600">
+El 9060 es una nueva expresión del estilo refinado y el diseño basado en la innovación que han convertido a la serie 99X en el hogar de algunos de los modelos más emblemáticos de la historia de New Balance. El 9060 reinterpreta elementos familiares provenientes de los modelos 99X clásicos con una sensibilidad distorsionada inspirada en la estética de tecnología visible orgullosamente futurista de la era Y2K. Las barras estabilizadoras, tomadas de las 990, se expanden y utilizan en toda la parte superior para brindar una sensación de movimiento visible, mientras que las líneas onduladas y las proporciones ampliadas en una entresuela de cápsula esculpida ponen un énfasis exagerado en las conocidas plataformas de amortiguación de ABZORB y SBS.
+
+<!-- crear un mosaico con imagenes que se agranden. sacado de la pagina https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_tab_img_gallery -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<body>
+
+<div style="text-align:center">
+</div>
+
+<!-- imagenes sacadas de new balance original -->
+<div class="row">
+  <div class="column">
+    <img src="https://nb.scene7.com/is/image/NB/u9060gry_nb_05_i?$dw_detail_main_lg$&bgc=f1f1f1&layer=1&bgcolor=f1f1f1&blendMode=mult&scale=10&wid=1600&hei=1600" alt="Nature" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="https://nb.scene7.com/is/image/NB/u9060gry_nb_04_i?$dw_detail_main_lg$&bgc=f1f1f1&layer=1&bgcolor=f1f1f1&blendMode=mult&scale=10&wid=1600&hei=1600" alt="Snow" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="https://nb.scene7.com/is/image/NB/u9060gry_nb_07_i?$dw_detail_main_lg$&bgc=f1f1f1&layer=1&bgcolor=f1f1f1&blendMode=mult&scale=10&wid=1600&hei=1600" alt="Mountains" style="width:100%" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="https://nb.scene7.com/is/image/NB/u9060gry_nb_06_i?$dw_detail_main_lg$&bgc=f1f1f1&layer=1&bgcolor=f1f1f1&blendMode=mult&scale=10&wid=1600&hei=1600" alt="Lights" style="width:100%" onclick="myFunction(this);">
+  </div>
+</div>
+
+<div class="container">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <img id="expandedImg" style="width:100%">
+  <div id="imgtext"></div>
+</div>
+
+<script>
+function myFunction(imgs) {
+  var expandImg = document.getElementById("expandedImg");
+  var imgText = document.getElementById("imgtext");
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = "block";
+}
+</script>
+Caracter&iacute;sticas del producto</h2>
+
+<ul>
+  <li>Parte superior de malla con revestimientos</li>
+  <li>Entresuela de doble densidad con amortiguaci&oacute;n ABZORB y SBS</li>
+  <li>Logotipo de la lengüeta inspirado en la joya de encaje 991 original</li>
+  <li>Dispositivo CR transl&uacute;cido en el tal&oacute;n</li>
+  <li>Patr&oacute;n de suela de diamante inspirado en el diseño cl&aacute;sico 860</li>
+</ul>  
+</p>
+
+
+
+
+</body>
+
+
+<script>
+  function myFunction() {
+    var x = document.getElementById("myBtn");
+    x.disabled = true;
+  }
+  </script>
+  
+
+
+
+</html>
