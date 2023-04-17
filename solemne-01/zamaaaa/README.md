@@ -1,9 +1,3 @@
-<head>
-<h1> entrega de solemne 1 </h1>
-</head>
-
-<body>
-<p> Proyecto de portafolio de cuarto año, esperando completarlo al salir de la carrera </p>
-</body>
-
- <!--Profe la estoy pasando pesimo con esto -->
+#entrega
+![alt text](captura11am.png "logo")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
