@@ -1,6 +1,7 @@
 /* https://www.w3schools.com/css/tryit.asp?filename=trycss_syntax_id */
 body {
     background-color: rgb(198, 198, 255);  
+}
 #mamamoo {
     color: hsl(328, 100%, 50%);
     font-weight: bold;
