@@ -1,0 +1,24 @@
+/* Fondo color rosa desde https://www.w3schools.com/html/html_id.asp*/
+p {
+  background-color: rgb(255, 195, 232);
+  color: black;
+  padding: 40px;
+  text-align: left;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.flor {
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 102, 212);
+  padding: 40px;
+  text-align: left;
+  font-size: x-large;
+}
+
+.Rosa {
+  background-color: rgb(248, 138, 125);
+  color: black;
+  padding: 40px;
+  text-align: left;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}

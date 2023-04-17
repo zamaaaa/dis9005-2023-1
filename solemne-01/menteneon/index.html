@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <style>
-            body { background-color: orange;}
-            h1 { color:rgb(78, 51, 0);}
-            p {color: rgb(173, 0, 0);}
-            h2 { color:rgb(78, 51, 0)}
-        </style>
+        <!-- codigo extraido de clase lunes 03 -->
+        <meta name="viewport" content="width=device-with, initial-scale=1.0">
+        <!-- css sacado de https://www.w3schools.com/html/html_css.asp-->
+        <link rel="stylesheet" href="style.css" >
         <title>
-            Gatos pan para relajarse 
+            Gatos para relajarse 
         </title>
         <body>
             <!-- signo de interrogacion https://www.toptal.com/designers/htmlarrows/punctuation/inverted-question-mark/ -->
@@ -16,9 +14,9 @@
                 &#191;Sab&iacute;as que ver a un gato comer pan te puede hacer feliz todo el d&iacute;a?
             </h1>
             <!-- imagen sacada de https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTewh1_hbH0b_G-h21GWAIWntmQQcwp9W9QARvV1EMJZ1YMxL5iLVE03vhbD11hdJrlxEw&usqp=CAU -->
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTewh1_hbH0b_G-h21GWAIWntmQQcwp9W9QARvV1EMJZ1YMxL5iLVE03vhbD11hdJrlxEw&usqp=CAU" style="width:100%">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTewh1_hbH0b_G-h21GWAIWntmQQcwp9W9QARvV1EMJZ1YMxL5iLVE03vhbD11hdJrlxEw&usqp=CAU" style="width:60%">
             <!-- img src sacado de index.html lunes03 menteneon -->
-            <p>
+            <p id="juanin">
 El gato pan es un s&iacute;mbolo de felicidad ya que se puede ver la felicidad con la que se come el pan 
 y eso te la transmite a ti. Aparte se esta comiendo un hallulla,
  por lo que podemos deducir que es un gato chileno, por ende es un gato pan chileno.
@@ -26,15 +24,43 @@ y eso te la transmite a ti. Aparte se esta comiendo un hallulla,
             <h2>
                 &#191;Sab&iacute;as que tambi&eacute;n existen gatos m&aacute;s serios como el gato camisa?
             </h2>
-            <img src="https://ih1.redbubble.net/image.3206199008.2094/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" style="width:100%;">
+            <img src="https://ih1.redbubble.net/image.3206199008.2094/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" style="width:80%;">
+            <!-- Imagen rescatada de https://ih1.redbubble.net/image.3206199008.2094/flat,750x,075,f-pad,750x1000,f8f8f8.jpg -->
             <p>
                 El gato camisa es un gato que demuestra que puede ser un gato serio y que aparte es muy formal 
                 porque anda de traje, este gato camisa es muy serio, tiene cara de abogado.
             </p>
-            <script src="script.js">
-   
             
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<body>
+
+<div id="myPlot" style="width:100%;"></div>
+
+<script>
+var xArray = [40,50,60,80,90,100,120,130,140,150,160];
+var yArray = [6,7,8,9,10,11,12,13,14,15,16];
+
+// Define Data
+var data = [{
+  x:xArray,
+  y:yArray,
+  mode:"markers"
+}];
+
+// Define Layout
+var layout = {
+  xaxis: {range: [40, 160], title: "Cantidad de fotos de gatos vistas"},
+  yaxis: {range: [5, 16], title: "Nivel de felicidad"},  
+  title: "Puntos de felicidad después de ver a gatos"
+};
+
+// Display using Plotly
+Plotly.newPlot("myPlot", data, layout);
             </script>
+            <!-- Script sacado de https://www.w3schools.com/js/tryit.asp?filename=tryai_plotly_scatter  -->
+            <a href="https://www.youtube.com/watch?v=qQtNo256rd0">Alegra tu d&iacute;a con videos de gatos!</a>
+            <!-- codigo recuperado de  https://www.w3schools.com/html/tryit.asp?filename=tryhtml_links_w3schools-->
+            <!-- video recuperado dehttps://www.youtube.com/watch?v=qQtNo256rd0 -->
         </body>
     </head>
 </html>
