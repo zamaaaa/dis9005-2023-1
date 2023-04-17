@@ -29,15 +29,17 @@ header{
     height: 100px;
     margin-right: 30px;
 }
-/* Comandos para centrar parrafo / aqui me ayudo mi compañero*/
+/*Comandos para centrar parrafo / aqui me ayudo mi compañero*/
 .galeria .titulo{
     font-size: 2vw;
     text-align: center;
 }
+/*Ajustes para parrafos*/
 .galeria .parrafo{
     font-size: 2vw;
     text-align: center;
 }
+/*Ajustes para hipervinculos*/
 .galeria .hipervinculo{
     font-size: 2vw;
     text-align: center;
@@ -50,6 +52,7 @@ header{
     margin: auto;
     max-width: 1000px;
 }
+/*Comando para resaltar texto en rojo cuando se mueve el cursor por encima de hipervinculos*/
 .galeria .hipervinculo:hover{
     font-size: 2vw;
     color:rgb(255, 85, 85);
