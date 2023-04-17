@@ -2,7 +2,7 @@
 
 // como colocar imagenes :  ![alt text]( donde vive mi imagen "logo")
 
-![alt text]( detaledeconsola.png "logo")
+![alt text](detaledeconsola.png"logo")
 
 
 
