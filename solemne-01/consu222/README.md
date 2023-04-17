@@ -1,5 +1,5 @@
 # entrega
 ![alt text](captura11am.png "logo")
-![alt text](captura1.png "logo")
-![alt text](captura2.png "logo")
-![alt text](captura4.png "logo")
+![alt text](foto1.png "logo")
+![alt text](foto2.png "logo")
+![alt text](foto3.png "logo")
