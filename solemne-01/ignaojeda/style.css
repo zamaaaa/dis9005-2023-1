@@ -10,10 +10,50 @@ p {
   color: rgb(103, 103, 103);
   font-family: courier;
   font-size: 100%;
-  text-align: center;
+  text-align: left;
 }
-/* Esto lo sque de https://internetctrl.com/como-centrar-un-texto-en-html/ */
+/* Esto lo saque de https://internetctrl.com/como-centrar-un-texto-en-html/ */
 img {
     display: block;
     margin: auto;
   }
+
+.linea-1 {
+  text-align: justify;
+}
+
+.contenedor {
+  display: flex;
+  justify-content: center;
+}
+
+.columna {
+background-color: rgb(255, 230, 212);
+padding: 10px;
+margin: 12.5px 50px;
+}
+/* Esto lo saque de https://youtu.be/a7mRQe5c-Wg */
+h2 {
+font-family: 'Courier New', Courier, monospace;
+font-size: 150%;
+}
+h3 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 150%;
+}
+.contenedor-imagenes {
+  display: flex;
+  justify-content: center;
+}
+.imagen {
+  margin: 12.5px 25px;
+}
+
+.contenedor-imagenes2 {
+  display: flex;
+  justify-content: center;
+}
+.imagen2 {
+  margin: 12.5px 25px;
+}
+/* Esto lo saque de https://youtu.be/a7mRQe5c-Wg */
