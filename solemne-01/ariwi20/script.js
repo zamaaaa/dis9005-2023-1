@@ -1,10 +1,10 @@
 console.log("Atrapalos a todos!");
 console.log("ancho:" + window.innerWidth);
 let par;
-par = document.getElementById("Atrapalos a todos!");
-if (window.innerWidth < 200)  {
-par.innerHTML =  "menor a 200 px";
+par = document.getElementById("atrapalos");
+if (window.innerWidth < 800)  {
+atrapalos.innerHTML =  "atrapalos en celular";
 }
 else {
-par.innerHTML =  "mayor o igual a 100 px";
+atrapalos.innerHTML =  "atrapalos en desktop";
 }
