@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
         <link rel="stylesheet" href="style.css">
         <title>
             La pagina de la chihuahua
@@ -8,14 +10,12 @@
     </head>
         <body>
 
-<p id="demo"></p>
-
 <h1>
     Conociendo a Martina
 </h1>
-<img src="martina1.jpg" width= "600" height="450"> 
+<img src="martina1.jpg" style="max-width:100%;height:auto;"> 
 <p class="linea-1">
-    Martina hija de una Chihuahua y un Pomerania (o eso se cree), ciertamente Martina no fue una perrita planeada, su mam&aacute; perruna estuvo en un Hotel para perros de raza pequeña un fin de semana y a vuelta de sus vacaciones se dieron cuenta de que la mam&aacute; de Martina estaba embarazada, luego de esto esta perrita se enfermo y su mamá adoptiva debi&oacute; vender a un muy bajo precio los cachoritos para poder operar de urgencia a la mam&a de Martina y es por eso que Martina lleg&oacute; para la navidad del 2016 a casa de la familia Ojeda
+    Martina, hija de una Chihuahua y un Pomerania (o eso se cree), ciertamente Martina no fue una perrita planeada, su mam&aacute; perruna estuvo en un Hotel para perros de raza pequeña un fin de semana y a vuelta de sus vacaciones se dieron cuenta de que la mam&aacute; de Martina estaba embarazada, luego de esto esta perrita se enfermo y su mamá adoptiva debi&oacute; vender a un muy bajo precio los cachoritos para poder operar de urgencia a la mam&a de Martina y es por eso que Martina lleg&oacute; para la navidad del 2016 a casa de la familia Ojeda
 </p>
 
 <div class="contenedor">
@@ -75,7 +75,20 @@
     </div>
 </div>
 
-    <p id="fecha"></p>
-    <script src="script.js"></script>
+<button id="myBtn">Presione aqui</button>
+
+<p id="demow"></p>
+
+<script>
+document.getElementById("myBtn").onclick = displayDate;
+
+function displayDate() {
+  document.getElementById("demow").innerHTML = Date();
+}
+</script>
+<!--codigo rescatado de https://www.w3schools.com/js/tryit.asp?filename=tryjs_events2 -->
+
+<script src="script.js"></script>
+
         </body>
 </html>
