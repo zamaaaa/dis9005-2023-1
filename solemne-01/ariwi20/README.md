@@ -1,2 +1,3 @@
 # entrega
-![alt text](captura17abril.png "logo")
+![alt text](captura23abril_1"logo")
+![alt text](captura23abril_2"logo")
