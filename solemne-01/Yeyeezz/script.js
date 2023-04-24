@@ -1,5 +1,5 @@
-<script>
-        function myFunction()
-        document.getElementById("cambio").innerHTML = "Buen día :)";
-    </script>
-    // Intenté cambiar imagenes al agrandar y achicar.
+function cambio() { 
+    document.getElementById("cambio").innerHTML = "Bonito d&iacute;a!!!";
+  }
+// https://www.w3schools.com/html/tryit.asp?filename=tryhtml_script_html
+// quería que las imágenes cambiaran al pasar el cursor
