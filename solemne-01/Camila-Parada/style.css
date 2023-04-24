@@ -1,21 +1,117 @@
-
-title {
-
-    font-family: Arial;
-    font-size: x-large;
+*
+    
+.fondo {
+    background-color: rgb(233, 216, 197);
 
 }
+
+.left {
+    padding: 15px;
+    float: left;
+    width: 20%;
+} 
+
+.main {
+    background-color: #ffffff;
+    padding: 20px;
+    float: left;
+    width: 60%;
+}
+
+.right {
+    padding: 20px;
+    float: left;
+    width: 20%;
+}
+
+@media screen and (max-width: 1000px) {
+    .left, .main, .right {
+      width: 100%;
+      /* Código (left, main, right y media screen) sacado de <a href="https://www.w3schools.com/html/html_responsive.asp"> HTML Responsive Web Design. Media Queries */
+    }
+  }
+
+
+  .boton {
+
+    padding: 10px 20px; 
+    background-color: rgba(101, 67, 13, 0.756); 
+    color: #ffffff; 
+    font-family: Arial; 
+    font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 195px;
+    text-align: center;
+    /* Botón sacado de <a href="https://www.youtube.com/watch?v=8frJ_4n3s-A&ab_channel=CodeaApp"> Cómo crear un botón con Html, CSS y Javascript </a> */
+
+    display: block;
+    margin: auto;
+  }
+
+h1 {
+
+    font-family: Georgia;
+    font-style: bold;
+    font-size: 45px;
+    color: rgba(61, 44, 5, 0.756);
+    text-align: center;
+}
+
+.bajada {
+        font-family: 'Arial';
+        font-style: italic;
+        font-weight: normal;
+        font-size: 20px;
+        color: rgba(101, 67, 13, 0.756);
+    }
+
+.texto {
+
+        font-size: 15px;
+        font-family: Verdana;
+
+    }
+
+h2 {
+        font-family: 'Cambria';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 25px;
+        color: rgba(40, 29, 4, 0.756);
+        text-align: center;
+}    
+
+h3,li {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(61, 44, 5, 0.756);
     
-    body {
-        background-color: bisque;
+}    
 
-    }
-    p {
 
-        background-color: bisque;
-        background-image: rgb(74, 52, 9);
-        font-size: small;
-        font-family: 'Franklin Gothic Medium', Helvetica, sans-serif;
+.img-lugar {
+    display: block;
+    margin: auto;
+   /* Código sacado de <a href="https://devxdev.net/centrar-imagen-css/"> Cómo centrar una imagen con css */ 
+    max-width:70%;height:auto;
+   /* Código sacado de <a href="https://www.w3schools.com/html/html_responsive.asp"> HTML Responsive Web Design. Responsive Images */
+}
 
-    }
+.img-cafe {
+    display: block;
+    margin: auto;
+    /* Código sacado de <a href="https://devxdev.net/centrar-imagen-css/"> Cómo centrar una imagen con css */ 
+    max-width:85%;height:auto;
+    /* Código sacado de <a href="https://www.w3schools.com/html/html_responsive.asp"> HTML Responsive Web Design. Responsive Images */
+}
 
+.bajada-foto {
+    font-family: 'Arial';
+    font-style: italic;
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+}
