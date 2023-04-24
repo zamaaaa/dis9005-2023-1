@@ -1,21 +1,27 @@
-
 body {
-background-color: rgb(251, 223, 238);
+  background-color: rgb(251, 223, 238);
 }
-h1{
-color:black;
-}
-p {
-font-size:larger;
+h1 {
+  color: #1c6da6;
+  font-size: xx-large;
+  font-family: display;
 }
 h2 {
-color:#1c6da6"
-font-family:display;
-} 
-p {
-    font-size:smaller;
+  color: #000000;
+  font-size: large;
+  font-family: display;
 }
-h3 {  
-color:black;
-font-family:fantasy;
-    } 
+h3 {
+  color: rgb(0, 0, 0);
+  font-family: Papyrus;
+}
+p {
+  color: rgb(0, 0, 0);
+  font-size: medium;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: rgb(172, 243, 255);
+  }
+}
+/* referencia de https://www.w3schools.com/css/css_rwd_mediaqueries.asp */

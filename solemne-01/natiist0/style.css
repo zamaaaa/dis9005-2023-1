@@ -1,0 +1,14 @@
+p{
+    background-color: rgb(202, 163, 238);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.imagen { 
+    width: 70%;
+}
+.parrafo {
+    background-color: rgb(202, 163, 238);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.albums { 
+    width: 20%;
+}
