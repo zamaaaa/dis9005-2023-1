@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> No me siento bien </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+
+    <body>
+        <h1> No se que siento</h1>
+        <p> Estas semanas han sido raras, no encuentro palabras para expresarlo. No paro de estar triste.</p>
+
+        <button id="inicio"> El tiempo corre </button>
+       
+
+        <h1>¿Te sientes cansado?</h1>
+
+<form id="formulario">
+    <!-- 1) php es otro lenguaje que tiene que ver con los servidores -->
+  <label for="fname">Me siento similar:</label>
+  <input type="text" autofocus value="Meh" id="fname" name="fname"><br><br>
+  <label for="lname">No te comprendo:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Ingresar"><br><br>
+  <!-- 2) input se usa para crear muchas cosas, entre esas formularios. Solo se ve en html. El input nunber permite crear campos que invocan respuestas solo números, el teclado solo muestra esas figuras -->
+</form>
+
+<p>Si haces click en el botón se mandará tu respuesta</p>
+
+<!-- 3) Tras eso vimos en los mismos input de WW3 los HTML Event Attributes -->
+<br>
+<p> - - - - - - - - - - - - - - - - - - </p>
+<br>
+<p>Escribe algo que se reflejará abajo</p>
+
+<input type="text" id="myInput" oninput="bacan()">
+<p id="demo"></p>
+<!-- 4) Una pàgina web es un conjunto de decisiones y eventos latentes que pueden ocurrir apenas se carga la web, o que espera a tener que interactuar con esta -->
+<script src="./script.js"></script>   
+<!-- La funcion script se coloca al final de body, para darle tiempo a la página para que los cree -->
+</body>
+</html>
