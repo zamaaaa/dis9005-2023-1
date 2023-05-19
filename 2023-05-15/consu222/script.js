@@ -15,3 +15,13 @@ function cambiarTamano(){
     console.log("otro");
 
 }
+
+let formulario = document.getElementById("formulario");
+console.log(formulario);
+formulario.addEventListener("submit", grabarInfo);
+
+function grabarInfo(){
+    let apellido = document.getElementById("lname");
+    alert(apellido.value);
+
+}
