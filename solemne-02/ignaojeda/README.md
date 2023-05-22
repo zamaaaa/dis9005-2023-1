@@ -1,13 +1,12 @@
 # solemne-02
-
-ir a mi fork del repositorio, y hacer click en "sync fork"
-
-![pantallazo de sync fork](./github-sync-fork.jpg)
-
-luego hacer click en el botón verde "update branch"
-
-![pantallazo de update branch](./github-update-branch.jpg)
-
-con esto lograremos que nuestro fork esté al día con el original ("up to date")
-
-![pantallazo de up to date](./github-up-to-date.jpg)
+![pantallazo proceso](./CapProc)
+![pantallazo proceso](./CapProc2)
+![pantallazo proceso](./CapProc3)
+![pantallazo proceso](./CapProc4)
+![pantallazo proceso](./CapProc5)
+![pantallazo proceso](./CapProc6)
+![pantallazo proceso](./CapProc7)
+![imagen1](./huillin-1.jpg)
+![imagen2](./huillin-2.jpg)
+![imagen3](./huillin-3.jpg)
+![imagen4](./huillin-4.jpg)
