@@ -18,4 +18,5 @@ Mi registro a continuacion
 hare una pagina que es una galeria de arte 
 usare el fomulario para que se registren y compren las obras 
 intentare que quede bella jeje 
-![Uploading Captura de pantalla 2023-05-22 a la(s) 10.38.18.png…]()
+
+<img width="927" alt="Avance1" src="https://github.com/ssofiasandoval/dis9005-2023-1/assets/128400293/1c3f7f34-e4f5-4f88-a56c-a46c6cd7935c">
