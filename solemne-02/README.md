@@ -32,3 +32,47 @@
 - [vicmunoz22](./vicmunoz22/)
 - [Yeyeezz](./Yeyeezz/)
 - [zamaaaa](./zamaaaa/)
+
+## instrucciones
+
+- prueba solemne individual
+- se publica en GitHub
+- trabajo solamente durante el horario de clases
+
+## requisitos de la entrega
+
+- abrir github.com y hacer inicio de sesión con tu cuenta
+- navegar a tu fork del repositorio del curso https://github.com/disenoUDP/dis9005-2023-1
+- sincronizar tu fork con el repositorio del curso
+- navegar a la carpeta solemne-02 y usar la carpeta con tu mismo nombre de usuario
+- subir a tu carpeta los archivos index.html, style.css, script.js, y otros archivos necesarios (imágenes, videos, etc) para tu página web.
+- agregar comentarios y documentación en el archivo README.md de tu carpeta.
+
+## pauta
+
+- 1 punto base
+- 1 punto por entrega en GitHub
+  - uso correcto de tu fork
+  - entrega en tu carpeta correcta
+- 1 punto por documentación en archivo README.md de tu carpeta
+  - incluir pantallazos de tu web en escritorio y en móvil.
+- 1 punto por archivo HTML
+  - código
+  - comentarios
+  - incluir elementos HTML ya estudiados p, h1, img, a, input
+  - incluir 1 elemento HTML adicional, citando la fuente de w3schools
+- 1 punto por archivo CSS
+  - incluir reglas CSS para cada elemento HTML
+  - incluir uso de id
+  - incluir uso de clases
+- 1 punto por archivo JavaScript
+  - código
+  - comentarios
+  - mensajes en consola
+  - interactividad con ratón
+  - funcionamiento distinto en navegador y móvil
+- 1 punto por uso de elemento HTML form (formulario)
+  - incluir elementos HTML input, tipo texto
+  - incluir elemento HTML input, tipo submit
+  - usar event listener en elemento input tipo submit
+  - usar información del formulario para modificar texto o gráfica de la web
