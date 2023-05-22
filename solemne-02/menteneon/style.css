@@ -1,0 +1,12 @@
+body { background-color: rgb(188, 122, 0);}
+            h1 { color:rgb(78, 51, 0);}
+            p {color: rgb(0, 0, 0); width: 80%;;}
+            
+            h2 { color:rgb(78, 51, 0)}
+            /* codigo rescatado de solenme1 */
+            p.five {
+                border-style: double;
+                border-width: 15px;
+              }
+              /* codigo rescatado dehttps://www.w3schools.com/css/tryit.asp?filename=trycss_border-width */
+        
