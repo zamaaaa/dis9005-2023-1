@@ -3,6 +3,10 @@
 Pantallazos:
 
 ![pantallazo de sync fork](./1.png)
+![pantallazo de sync fork](./2.png)
+![pantallazo de sync fork](./3.png)
+![pantallazo de sync fork](./4.png)
+![pantallazo de sync fork](./5.png)
 
 ir a mi fork del repositorio, y hacer click en "sync fork"
 
