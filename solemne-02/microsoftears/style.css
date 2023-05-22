@@ -1,0 +1,21 @@
+
+.colorido {
+    background-color: lightpink;
+    font-family: 'Courier New', Courier, monospace;
+            }
+            
+                @media screen and (max-width: 800px){
+                    .colorido {
+    background-color: rgb(255, 54, 81);
+            }
+                }
+    p {
+            background-color: lightpink;
+            font-family: 'Courier New', Courier, monospace;
+                    }
+                    
+                        @media screen and (max-width: 800px){
+                            .colorido {
+            background-color: rgb(255, 54, 81);
+                    }
+                        }
