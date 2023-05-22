@@ -1,0 +1,30 @@
+/* Fondo morado con letras blancas para párrafos https://www.w3schools.com/html/tryit.asp?filename=tryhtml_id_class */
+p {
+    background-color: rgb(192, 131, 254);
+    color: rgb(255, 255, 255);
+    padding: 30px;
+    text-align: left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:large;
+  }
+
+  /* Fondo morado con letras blancas para títulos https://www.w3schools.com/html/tryit.asp?filename=tryhtml_id_class */
+  h1 {
+    background-color: rgb(140, 58, 254);
+    color: white;
+    padding: 20px;
+  }
+/* Nueva clase de párrafo con fondo celeste y letra más pequeña */
+.shihtzu {
+    background-color: rgb(25, 177, 215);
+    color: rgb(255, 255, 255);
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-small;
+    padding: 10px;
+
+}
+
+h6 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+}
