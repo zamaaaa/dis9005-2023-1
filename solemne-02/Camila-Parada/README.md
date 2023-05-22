@@ -1,13 +1,18 @@
-# solemne-02
+<head>
+<h1> Entrega SOLEMNE 02 </h1>
+</head>
 
-ir a mi fork del repositorio, y hacer click en "sync fork"
+<body>
+<h2> Buenos días, tardes o noches estimad@: </h2>
 
-![pantallazo de sync fork](./github-sync-fork.jpg)
+<p> 
+Le informo que mi web es una especie de portafolio, el cual expone imagenes e información de contacto.
+</p>
 
-luego hacer click en el botón verde "update branch"
+<h3>Previsualización</h3>  
+<img src= "./images/">
+ <img src= "./images/">
+  
+</body>
 
-![pantallazo de update branch](./github-update-branch.jpg)
-
-con esto lograremos que nuestro fork esté al día con el original ("up to date")
-
-![pantallazo de up to date](./github-up-to-date.jpg)
+<!-- Esta solemne fue divertida... me dieron ganas de crear más cosas -->
