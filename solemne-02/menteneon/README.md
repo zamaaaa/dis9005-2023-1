@@ -1,13 +1,17 @@
 # solemne-02
+Pantallazos de proceso
+![img ss1](./ss1.png)
+![img ss2](./ss2.png)
+![img ss3](./ss3.png)
+![img ss4](./ss4.png)
+![img ss5](./ss5.png)
+![img TELEFONO](./ssTELEFONO.png)
 
-ir a mi fork del repositorio, y hacer click en "sync fork"
+Img utilizadas
+![img zorro](./zorro.jpg)
 
-![pantallazo de sync fork](./github-sync-fork.jpg)
-
-luego hacer click en el botón verde "update branch"
-
-![pantallazo de update branch](./github-update-branch.jpg)
-
-con esto lograremos que nuestro fork esté al día con el original ("up to date")
-
-![pantallazo de up to date](./github-up-to-date.jpg)
+links 
+# https://www.w3schools.com/html/tryit.asp?filename=tryhtml_responsive_image
+# https://www.w3schools.com/html/tryit.asp?filename=tryhtml_responsive_viewport
+# https://www.w3schools.com/js/tryit.asp?filename=tryjs_addeventlistener_displaydate
+# https://www.w3schools.com/css/tryit.asp?filename=trycss_border-width
