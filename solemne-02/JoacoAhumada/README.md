@@ -1,5 +1,9 @@
 # solemne-02
 
+Pantallazos proceso:
+
+![pantallazo de sync fork](./1.jpg)
+
 ir a mi fork del repositorio, y hacer click en "sync fork"
 
 ![pantallazo de sync fork](./github-sync-fork.jpg)
