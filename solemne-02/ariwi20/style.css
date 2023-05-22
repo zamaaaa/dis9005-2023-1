@@ -1,0 +1,28 @@
+body {
+  background-color:rgb(250, 250, 240);
+}
+h1 {
+  color: #1c6da6;
+  font-size: xx-large;
+  font-family: display;
+}
+h2 {
+  color: #000000;
+  font-size: large;
+  font-family: display;
+}
+h3 {
+  color: rgb(0, 0, 0);
+  font-family: Papyrus;
+}
+p {
+  color: rgb(0, 0, 0);
+  font-size: medium;
+}
+martha.style.backgroundColor = 'pink'
+@media only screen and (max-width: 600px)
+  body {
+    background-color: rgb(172, 243, 255);
+  
+}
+/* referencia de https://www.w3schools.com/css/css_rwd_mediaqueries.asp */
