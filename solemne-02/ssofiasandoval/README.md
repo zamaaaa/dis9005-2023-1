@@ -11,3 +11,11 @@ luego hacer click en el botón verde "update branch"
 con esto lograremos que nuestro fork esté al día con el original ("up to date")
 
 ![pantallazo de up to date](./github-up-to-date.jpg)
+
+
+Mi registro a continuacion
+
+hare una pagina que es una galeria de arte 
+usare el fomulario para que se registren y compren las obras 
+intentare que quede bella jeje 
+![Uploading Captura de pantalla 2023-05-22 a la(s) 10.38.18.png…]()
