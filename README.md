@@ -17,6 +17,7 @@
 
 - [clases](./clases/): una subcarpeta por cada clase
 - [solemne-01](./solemne-01/): una subcarpeta por cada entrega de solemne-01
+- [solemne-02](./solemne-02/): una subcarpeta por cada entrega de solemne-02
 
 ## contenidos
 
