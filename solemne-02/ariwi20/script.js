@@ -2,15 +2,15 @@
 document.getElementById("myBtn").addEventListener("click", function() {
 alert("Elige el que mejor se adapte a tu personalidad");
 })
-const redButton = document.getElementById('redButton');
-const blueButton = document.getElementById('blueButton');
+console.log("probando");
+let martha = document.getElementById("myBtn");
+console.log(martha)
 
-redButton.addEventListener('click', (e) => {
-  const colorSquare = document.getElementById('colorDiv');
-  colorSquare.style.backgroundColor = 'red';
-});
+martha.addEventListener('myBtn', cambiarColor);
+martha.addEventListener('mousedown', cambiarTamano);
 
-blueButton.addEventListener('click', (e) => {
-  colorSquare.style.backgroundColor = 'blue';
-})
+function cambiarColor() {
+  console.log('probando');
+  martha.style.backgroundColor = 'pink';
+}
 
