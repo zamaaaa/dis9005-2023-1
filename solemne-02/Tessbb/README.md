@@ -12,4 +12,4 @@ con esto lograremos que nuestro fork esté al día con el original ("up to date"
 
 ![pantallazo de up to date](./github-up-to-date.jpg)
 
-![pantallazo 1](./github-cap-1.png)
+![pantallazo 1](./cap-1.png)
