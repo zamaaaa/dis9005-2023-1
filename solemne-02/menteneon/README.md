@@ -5,6 +5,7 @@ Pantallazos de proceso
 ![img ss3](./ss3.png)
 ![img ss4](./ss4.png)
 ![img ss5](./ss5.png)
+![img TELEFONO](./ssTELEFNO.PNG)
 
 Img utilizadas
 ![img zorro](./zorro.jpg)
