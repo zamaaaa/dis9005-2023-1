@@ -1,5 +1,8 @@
 # solemne-02
 
+Pantallazos:
+
+![pantallazo de sync fork](./1.png)
 
 ir a mi fork del repositorio, y hacer click en "sync fork"
 
