@@ -1,0 +1,24 @@
+/* cambiar familias tipograficas y color tipografico aprendido en clases   */ 
+body {
+    background-color: rgb(206, 221, 245);
+}
+/* https://www.w3schools.com/css/tryit.asp?filename=trycss_font-size_px */
+h1 {
+    color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 40px;
+}
+h2 {
+    color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 20px;
+}
+p {
+    color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif;
+}
+.vamosa {
+    font-family: Arial, Helvetica, sans-serif; font-size: 30px;
+}
+ul {
+    color: rgb(0, 0, 0); font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-size: larger; 
+}
+img {
+    max-width: 50%;
+    height: auto;
+  }
