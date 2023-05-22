@@ -5,10 +5,10 @@ console.log(martha);
 martha.addEventListener("click", cambiarColor);
 martha.addEventListener("mousedown", cambiarTamano);
 
-function cambiarColor(){
-    console.log("probando");
-    martha.style.backgroundColor = "pink";
+function cambiarColor() {
+  console.log("probando");
+  martha.style.backgroundColor = "pink";
 }
-function cambiarTamano(){
-    console.log("otro");
+function cambiarTamano() {
+  console.log("otro");
 }

@@ -5,10 +5,10 @@ console.log(botonInicio);
 botonInicio.addEventListener("click", cambiarColor);
 botonInicio.addEventListener("mouseup", cambiarTamano);
 
-function cambiarColor(){
-    console.log("probando");
-    botonInicio.style.backgroundColor = "red"
+function cambiarColor() {
+  console.log("probando");
+  botonInicio.style.backgroundColor = "red";
 }
-function cambiarTamano(){
-    console.log("otro");
+function cambiarTamano() {
+  console.log("otro");
 }
