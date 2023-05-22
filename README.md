@@ -3,7 +3,7 @@
 ## acerca de
 
 - universidad: Universidad Diego Portales
-- facultad: Facultad de Arte, Arquitectura y Diseño
+- facultad: Facultad de Arquitectura, Arte y Diseño
 - departamento: Departamento de Diseño
 - curso: DIS9005 Diseño página web
 - sección: 01
@@ -51,24 +51,24 @@ la nota final de la clase será el promedio simple de estas evaluaciones:
 
 ## clases (lunes 10am-6:15pm)
 
-| clase                  | fecha      | tema                                                 |
-| :--------------------- | :--------- | :--------------------------------------------------- |
-| [01](clases/clase-01/) | 2023-03-13 | intro desarrollo sitios web + lenguaje HTML          |
-| [02](clases/clase-02/) | 2023-03-20 | anatomía de sitios web + lenguaje CSS                |
-| [03](clases/clase-03/) | 2023-03-27 | lenguaje JavaScript + biblioteca p5.js               |
-| [04](clases/clase-04/) | 2023-04-03 | integración HTML, CSS, JS, web responsiva            |
-| [05](clases/clase-05/) | 2023-04-10 | prueba solemne 1                                     |
-| [06](clases/clase-06/) | 2023-04-17 | diseño de wireframe                                  |
-| [07](clases/clase-07/) | 2023-04-24 | desarrollo de proyecto responsive                    |
-| semana de receso       | 2023-05-01 | no hay clases ni trabajos                            |
-| [08](clases/clase-08/) | 2023-05-08 | planificación de proyectos web + no hay evaluaciones |
-| [09](clases/clase-09/) | 2023-05-15 | uso de bibliotecas JavaScript                        |
-| [10](clases/clase-10/) | 2023-05-22 | prueba solemne 2                                     |
-| [11](clases/clase-11/) | 2023-05-29 | instalación y configuración de CMS y plugins         |
-| [12](clases/clase-12/) | 2023-06-05 | desarrollo de brief de diseño web                    |
-| [13](clases/clase-13/) | 2023-06-12 | edición de aspectos visuales de sitio web            |
-| examen teórico         | 2023-06-19 | examen teórico                                       |
-| cierre acta            | 2023-07-16 | plazo máximo envío actas                             |
+| clase                  | fecha      | tema                                         |
+| :--------------------- | :--------- | :------------------------------------------- |
+| [01](clases/clase-01/) | 2023-03-13 | intro desarrollo sitios web + lenguaje HTML  |
+| [02](clases/clase-02/) | 2023-03-20 | anatomía de sitios web + lenguaje CSS        |
+| [03](clases/clase-03/) | 2023-03-27 | lenguaje JavaScript + biblioteca p5.js       |
+| [04](clases/clase-04/) | 2023-04-03 | integración HTML, CSS, JS, web responsiva    |
+| [05](clases/clase-05/) | 2023-04-10 | prueba solemne 1                             |
+| [06](clases/clase-06/) | 2023-04-17 | diseño de wireframe                          |
+| [07](clases/clase-07/) | 2023-04-24 | configuración avanzada de editores de texto  |
+| semana de receso       | 2023-05-01 | no hay clases ni trabajos                    |
+| [08](clases/clase-08/) | 2023-05-08 | elementos HTML button y event listeners JS   |
+| [09](clases/clase-09/) | 2023-05-15 | formularios interactivos en HTML y JS        |
+| [10](clases/clase-10/) | 2023-05-22 | prueba solemne 2                             |
+| [11](clases/clase-11/) | 2023-05-29 | instalación y configuración de CMS y plugins |
+| [12](clases/clase-12/) | 2023-06-05 | desarrollo de brief de diseño web            |
+| [13](clases/clase-13/) | 2023-06-12 | edición de aspectos visuales de sitio web    |
+| examen teórico         | 2023-06-19 | examen teórico                               |
+| cierre acta            | 2023-07-16 | plazo máximo envío actas                     |
 
 ## bibliografía
 
