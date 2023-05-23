@@ -1,114 +1,128 @@
 .titulo {
-    font-family: aerobik_trial; 
-    color: rgb(215, 208, 236); 
-    text-align: center;
-    font-size: 72px;
+  font-family: aerobik_trial;
+  color: rgb(215, 208, 236);
+  text-align: center;
+  font-size: 72px;
 }
 .textocontinuo {
-    text-align: center; 
-    color:aliceblue; font-family: helvetica neue; 
-    text-align: left; 
-    font-size: 21px
+  text-align: center;
+  color: aliceblue;
+  font-family: helvetica neue;
+  text-align: left;
+  font-size: 21px;
 }
 .link {
-    font-family: Arial, Helvetica, sans-serif; 
-    text-align: center; font-size: 26px; 
-    font-style: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 26px;
+  font-style: bold;
 }
 .a {
-    color: rgb(203, 146, 235);
+  color: rgb(203, 146, 235);
 }
 body {
-    /* cursor: url("manitos.svg"), auto;
+  /* cursor: url("manitos.svg"), auto;
     /* intenté ponerle una imagen custom al cursor y no pude hacer que funcionara,
     asi que puse un signo de interrogación como cursor en el body jeje */
-    cursor: help;
+  cursor: help;
 }
 img {
-    height: 500px;
-    text-align: center;
-    display: block; 
-    margin: auto;
+  height: 500px;
+  text-align: center;
+  display: block;
+  margin: auto;
 }
 .bajada {
-    text-align: center; color: aliceblue; font-family: Arial, Helvetica, sans-serif; font-size: 18px;
+  text-align: center;
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
 }
 .textocontinuo:hover {
-    color: rgb(159, 158, 232);
+  color: rgb(159, 158, 232);
 }
 /* Carrusel de fotos */
-* {box-sizing:border-box}
+* {
+  box-sizing: border-box;
+}
 .slideshow-container {
-    max-width: 1000px;
-    position: relative;
-    margin: auto;
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
 }
 /* ocultas imágenes por default */
 .mySlides {
-    display: none;
+  display: none;
 }
 /* botones para avanzar y retroceder */
-.prev, .next {
-    cursor: pointer;
-    position: absolute;
-    top: 50%;
-    width: auto;
-    margin-top: -22px;
-    padding: 16px;
-    color: white;
-    font-weight: bold;
-    font-size: 20px;
-    transition: 0.6s ease-out;
-    border-radius: 0 3px 3px 0;
-    user-select: none;
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  transition: 0.6s ease-out;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
 }
 
 /* posicion del botón para avanzar a la derecha */
 .next {
-    right: 0;
-    border-radius: 3px 0 0 3px;
+  right: 0;
+  border-radius: 3px 0 0 3px;
 }
 
 /* al pasar, añadir fondo negro medio transparente */
-.prev:hover, .next:hover {
-    background-color: black;
+.prev:hover,
+.next:hover {
+  background-color: black;
 }
 /* REVISARRRRR */
 /* posicion del botón para retroceder */
 .prev {
-    left: 0;
-    border-radius: 3px 0 0 3px;
+  left: 0;
+  border-radius: 3px 0 0 3px;
 }
 /* pie de foto */
 .text {
-    color:rgb(224, 210, 245);
-    font-size: 14px;
-    padding: 8px 12 px;
-    position: absolute;
-    bottom: 8px;
-    width: 100%;
-    text-align: center;
+  color: rgb(224, 210, 245);
+  font-size: 14px;
+  padding: 8px 12 px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
 }
 /* puntos/circulos debajo de fotos */
 .dot {
-    cursor: pointer;
-    height: 15px;
-    width: 15px;
-    margin: 0px;
-    background-color: rgb(184, 184, 219);
-    border-radius: 50%;
-    display: inline-block;
-    transition: background-color 0.6s ease-in;
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0px;
+  background-color: rgb(184, 184, 219);
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease-in;
 }
-.active, .dot:hover {
-    background-color: rgb(27, 27, 28)
+.active,
+.dot:hover {
+  background-color: rgb(27, 27, 28);
 }
 /* animación de fading */
 .fade {
-    animation-name: fade;
-    animation-duration:  1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
 }
 @keyframes fade {
-    from {opacity: .4}
-    to {opacity: 1}
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
 }
