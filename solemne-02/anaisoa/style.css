@@ -1,9 +1,9 @@
 #myHeader {
-    background-color: rgb(0, 92, 122);
-    color: rgb(255, 216, 216);
-    padding: 40px;
-    text-align: center;
-  }
+  background-color: rgb(0, 92, 122);
+  color: rgb(255, 216, 216);
+  padding: 40px;
+  text-align: center;
+}
 
 /* Fondo color desde https://www.w3schools.com/html/html_id.asp*/
 p {
@@ -11,10 +11,11 @@ p {
   color: black;
   padding: 40px;
   text-align: left;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+    sans-serif;
 }
 
-.origen{
+.origen {
   background-color: rgb(243, 211, 68);
   color: rgb(0, 0, 0);
   padding: 40px;
@@ -27,5 +28,6 @@ p {
   color: black;
   padding: 40px;
   text-align: left;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+    sans-serif;
 }
