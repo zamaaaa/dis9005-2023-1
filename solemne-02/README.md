@@ -65,12 +65,12 @@
   - incluir reglas CSS para cada elemento HTML
   - incluir uso de id
   - incluir uso de clases
+  - funcionamiento distinto en navegador y móvil
 - 1 punto por archivo JavaScript
   - código
   - comentarios
   - mensajes en consola
   - interactividad con ratón
-  - funcionamiento distinto en navegador y móvil
 - 1 punto por uso de elemento HTML form (formulario)
   - incluir elementos HTML input, tipo texto
   - incluir elemento HTML input, tipo submit
