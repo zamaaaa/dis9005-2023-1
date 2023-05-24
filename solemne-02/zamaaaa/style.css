@@ -1,8 +1,7 @@
 body {
-    background-color: rgb(237, 129, 99);  
+  background-color: rgb(237, 129, 99);
 }
 #mamamoo {
-    color: hsl(328, 100%, 50%);
-    font-weight: bold;
-  }
-  
+  color: hsl(328, 100%, 50%);
+  font-weight: bold;
+}
