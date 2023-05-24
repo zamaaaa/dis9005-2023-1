@@ -1,5 +1,6 @@
 # solemne-02
-![pantallazo proceso](./CapProc)
+
+![pantallazo proceso](./CapProc1)
 ![pantallazo proceso](./CapProc2)
 ![pantallazo proceso](./CapProc3)
 ![pantallazo proceso](./CapProc4)
