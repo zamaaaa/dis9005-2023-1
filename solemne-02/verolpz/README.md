@@ -1,13 +1,15 @@
 # solemne-02
 
-ir a mi fork del repositorio, y hacer click en "sync fork"
+![captura 1](./captura1.png)
 
-![pantallazo de sync fork](./github-sync-fork.jpg)
+![captura 2](./captura2.png)
 
-luego hacer click en el botón verde "update branch"
+![captura 3](./captura3.png)
 
-![pantallazo de update branch](./github-update-branch.jpg)
+![captura 4](./captura4.png)
 
-con esto lograremos que nuestro fork esté al día con el original ("up to date")
+![captura 5](./captura5.png)
 
-![pantallazo de up to date](./github-up-to-date.jpg)
+![captura 6](./captura6.png)
+
+![captura 7](./captura7.png)
