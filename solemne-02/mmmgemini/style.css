@@ -1,15 +1,15 @@
 .manuela1 {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: medium;
+  font-family: "Courier New", Courier, monospace;
+  font-size: medium;
 }
 h1 {
-    background-color: goldenrod;
-    color: antiquewhite;
-    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+  background-color: goldenrod;
+  color: antiquewhite;
+  text-shadow: 2px 2px 5px rgb(0, 0, 0);
 }
 .manuela2 {
-    font-size: 20px;
-    text-decoration-line: overline;
-    text-decoration-color: orange;
-    text-decoration-thickness: 5px; 
+  font-size: 20px;
+  text-decoration-line: overline;
+  text-decoration-color: orange;
+  text-decoration-thickness: 5px;
 }
