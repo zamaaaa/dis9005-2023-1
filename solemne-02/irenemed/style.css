@@ -1,37 +1,36 @@
-
-h1{
-    font-family: sans-serif;
-    color: rgb(60, 3, 106);
-    text-align: center;
-} 
-  h5 {
-    font-family: sans-serif;
-  }
-ol {
-    font-family: sans-serif;
-  }
-img {
-    width: 30%;
+h1 {
+  font-family: sans-serif;
+  color: rgb(60, 3, 106);
+  text-align: center;
 }
- .p1{
-    background-color: rgb(173, 230, 204);
-    color: black;
-    padding: 40px;
-    text-align: left;
-    font-family: sans-serif;
- }
- .p2{
-    background-color: rgb(195, 208, 249);
-    color: black;
-    padding: 40px;
-    text-align: left;
-    font-family: sans-serif;
- }
- /* Informacion sacada de https://www.w3schools.com/html/html_id.asp, codigo lo modificque a mis necesidades */
- #myHeader {
-    color: black;
-    padding: 40px;
-    text-align: center;
-    font-family: sans-serif;
-    font-weight: 400;
-  }
+h5 {
+  font-family: sans-serif;
+}
+ol {
+  font-family: sans-serif;
+}
+img {
+  width: 30%;
+}
+.p1 {
+  background-color: rgb(173, 230, 204);
+  color: black;
+  padding: 40px;
+  text-align: left;
+  font-family: sans-serif;
+}
+.p2 {
+  background-color: rgb(195, 208, 249);
+  color: black;
+  padding: 40px;
+  text-align: left;
+  font-family: sans-serif;
+}
+/* Informacion sacada de https://www.w3schools.com/html/html_id.asp, codigo lo modificque a mis necesidades */
+#myHeader {
+  color: black;
+  padding: 40px;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 400;
+}

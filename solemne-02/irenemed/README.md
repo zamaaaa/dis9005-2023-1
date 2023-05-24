@@ -11,3 +11,11 @@ luego hacer click en el botón verde "update branch"
 con esto lograremos que nuestro fork esté al día con el original ("up to date")
 
 ![pantallazo de up to date](./github-up-to-date.jpg)
+
+![foto 1 proceso](./foto1proceso.png)
+
+![foto 1 proceso](./foto2proceso.png)
+
+![foto 1 proceso](./foto3proceso.png)
+
+![foto 1 proceso](./foto4proceso.png)
