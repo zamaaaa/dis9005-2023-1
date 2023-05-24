@@ -1,65 +1,67 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <title>mis pokemones favoritos</title>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <!-- por favor mover este CSS al archivo style.css -->
+    <style>
+      table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
 
-<head>
-    <title>
-        mis pokemones favoritos
-    </title>
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <link rel="stylesheet" href ="style.css">
-</head>
+      td,
+      th {
+        border: 1px solid #ffcdcd;
+        text-align: left;
+        padding: 8px;
+      }
 
-<body>
-
-
-<h1>
-    Las evoluciones de eevee son lo que m&aacute;s me gustan 
-</h1>
-<h2>
-    pero son dif&iacute;ciles de conseguir, aqu&iacute; te muestro a eevee sin evolucionar. 
-</h2>
-<!-- imagen sacada de https://www.pokemon.com/el/pokedex/eevee -->
-<a href="https://www.pokemon.com/el/pokedex/eevee" target="_blank"> <img src="./133.png"> </a>
-
-<h3>
-    les mostrar&eacute; mi lista de evoluciones de eevee en orden de gusto
-</h3>
-
-<ol>
-    <li>sylveon</li>
-    <li>umbreon</li>
-    <li>espeon</li>
-    <li>vaporeon</li>
-    <li>jolteon</li>
-    <li>glaceon</li>
-    <li>leafon</li>
-    <li>flareon</li>
-</ul>
-
-<style>
-    table {
-      font-family: arial, sans-serif;
-      border-collapse: collapse;
-      width: 100%;
-    }
-    
-    td, th {
-      border: 1px solid #ffcdcd;
-      text-align: left;
-      padding: 8px;
-    }
-    
-    tr:nth-child(even) {
-      background-color: #ffebeb;
-    }
+      tr:nth-child(even) {
+        background-color: #ffebeb;
+      }
     </style>
-    </head>
-    <body>
-    
+  </head>
 
-<!-- tabla aprendida de https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table_intro -->
-    <h2> Tabla evoluciones eevee </h2>
-    
+  <body>
+    <h1>Las evoluciones de eevee son lo que m&aacute;s me gustan</h1>
+    <h2>
+      pero son dif&iacute;ciles de conseguir, aqu&iacute; te muestro a
+      eevee sin evolucionar.
+    </h2>
+    <!-- imagen sacada de https://www.pokemon.com/el/pokedex/eevee -->
+    <a
+      href="https://www.pokemon.com/el/pokedex/eevee"
+      target="_blank"
+    >
+      <img src="./133.png" />
+    </a>
+
+    <h3>
+      les mostrar&eacute; mi lista de evoluciones de eevee en orden de
+      gusto
+    </h3>
+
+    <ol>
+      <li>sylveon</li>
+      <li>umbreon</li>
+      <li>espeon</li>
+      <li>vaporeon</li>
+      <li>jolteon</li>
+      <li>glaceon</li>
+      <li>leafon</li>
+      <li>flareon</li>
+    </ol>
+
+    <!-- tabla aprendida de https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table_intro -->
+    <h2>Tabla evoluciones eevee</h2>
+
     <table>
       <tr>
         <th>Nombre</th>
@@ -92,21 +94,17 @@
         <td>0196</td>
       </tr>
     </table>
-    
-    
 
-<form id="formulario">
-  <label for="entrenador">nombre de entrenador:</label><br>
-  <input type="text" id="entrenador"  value="mila"><br>
-  <label for="equipo">equipo:</label><br>
-  <input type="text" id="equipo" value="azul"><br><br>
-  <input type="submit" value="ingresar" id="inicio">
- 
-</form> 
+    <form id="formulario">
+      <label for="entrenador">nombre de entrenador:</label><br />
+      <input type="text" id="entrenador" value="mila" /><br />
+      <label for="equipo">equipo:</label><br />
+      <input type="text" id="equipo" value="azul" /><br /><br />
+      <input type="submit" value="ingresar" id="inicio" />
+    </form>
 
- <p id="bienvenida">hola</p>
+    <p id="bienvenida">hola</p>
 
-
-<script src="./script.js"></script>
-</body>
+    <script src="./script.js"></script>
+  </body>
 </html>
