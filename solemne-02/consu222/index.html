@@ -1,67 +1,90 @@
 <!DOCTYPE html>
 <html>
-    <head>
-<link rel="stylesheet" href="style.css">
-         <title>
-            BLUE WHALE
-        </title>
-        <meta name="viewport" content="width=100px, initial-scale=1.0">
-   </head>
-    <body>
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <title>BLUE WHALE</title>
+    <meta name="viewport" content="width=100px, initial-scale=1.0" />
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <h2>HAZ CLICK ABAJO</h2>
+    <!-- cual es la fuente de donde sacaste este boton?
+el event listener de click, quiero que vaya en script.js, no aqui -->
+    <button
+      type="button"
+      onclick="document.getElementById('demo').innerHTML = Date()"
+    >
+      Click me to display Date and Time.
+    </button>
 
-        <h2>HAZ CLICK ABAJO </h2>
+    <p id="demo"></p>
 
-<button type="button"
-onclick="document.getElementById('demo').innerHTML = Date()">
-Click me to display Date and Time.</button>
+    <form id="formulario">
+      <label for="fname">nombre:</label>
+      <input
+        type="text"
+        autofocus
+        id="fname"
+        value="nombre"
+      /><br /><br />
+      <label for="lname">apellido:</label>
+      <input type="text" id="lname" name="lname" /><br /><br />
+      <input type="submit" value="Ingresar" />
+    </form>
+    <br /><br />
+    <button id="inicio">Aquí</button>
 
-<p id="demo"></p>
+    <h3 style="color: rgb(255, 255, 255)">
+      LA BALLENA AZUL: EL ANIMAL M&Aacute;S GRANDE DEL MUNDO
+    </h3>
 
-        <form id="formulario">
-            <label for="fname">nombre:</label>
-            <input type="text" autofocus id="fname" value="nombre"><br><br>
-            <label for="lname">apellido:</label>
-            <input type="text" id="lname" name="lname"><br><br>
-            <input type="submit" value="Ingresar" >
-          </form><br><br>
-                    <button id="inicio">
-                        Aquí
-                         </button>
-                    <script src="./script.js"></script>
-       
-     <h3 style="color:rgb(255, 255, 255);">LA BALLENA AZUL: EL ANIMAL M&Aacute;S GRANDE DEL MUNDO</h3>
-        
-        <img src="https://images5.alphacoders.com/412/412348.jpg"style="max-width:100%;" class="zoom-in"> 
-        <p class="colorido">
-            <h4 style="color: aliceblue;">La ballena azul es el animal conocido m&aacute;s grande que jam&aacute;s haya poblado la Tierra. Estos majestuosos mam&iacute;feros marinos dominan los oc&eacute;anos con sus 30 metros de longitud y hasta 180 toneladas de peso. Solo su lengua puede pesar tanto como un elefante, y el coraz&oacute;n, como un autom&oacute;vil. Recibe tambi&eacute;n el nombre de rorcual azul, compartiendo familia con otros rorcuales como el rorcual com&uacute;n o el rorcual boreal.</h4>
-        
-        </p>
-        <img src="https://verdeyazul.diarioinformacion.com/wp-content/uploads/2021/09/blue_whale_2_small.jpg"style="max-width:100%;">
-        <h1>
-            Comparaci&oacute;n de ballenas 
-            Ac&aacute; abajo
-        </h1>
-        <img src="https://animalesmascotas.com/wp-content/uploads/2016/08/ballena-azul-tipos-ballenas.jpg"
+    <img
+      src="https://images5.alphacoders.com/412/412348.jpg"
+      style="max-width: 100%"
+      class="zoom-in"
+    />
+    <div class="colorido">
+      <h4 style="color: aliceblue">
+        La ballena azul es el animal conocido m&aacute;s grande que
+        jam&aacute;s haya poblado la Tierra. Estos majestuosos
+        mam&iacute;feros marinos dominan los oc&eacute;anos con sus 30
+        metros de longitud y hasta 180 toneladas de peso. Solo su
+        lengua puede pesar tanto como un elefante, y el
+        coraz&oacute;n, como un autom&oacute;vil. Recibe
+        tambi&eacute;n el nombre de rorcual azul, compartiendo familia
+        con otros rorcuales como el rorcual com&uacute;n o el rorcual
+        boreal.
+      </h4>
+    </div>
+    <img
+      src="https://verdeyazul.diarioinformacion.com/wp-content/uploads/2021/09/blue_whale_2_small.jpg"
+      style="max-width: 100%"
+    />
+    <h1>Comparaci&oacute;n de ballenas Ac&aacute; abajo</h1>
+    <!-- <img src="https://animalesmascotas.com/wp-content/uploads/2016/08/ballena-azul-tipos-ballenas.jpg"  -->
 
-       
-          img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg"style="max-width:100%;">
-          <h1>
-            <video width="1000" controls>
-                <source src="mov_bbb.mp4" type="video/mp4">
-                <source src="mov_bbb.ogg" type="video/ogg">
-             </video>
-               <p>
-              Video courtesy of 
-              <a href="https://www.google.com/search?q=video+de+ballena+azul+5+segundos&source=lmns&tbm=vid&bih=961&biw=1140&r" target="_blank">BLUE WHALE</a>.
-              </p>
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg"
+      style="max-width: 100%"
+    />
+    <video width="1000" controls>
+      <source src="mov_bbb.mp4" type="video/mp4" />
+      <source src="mov_bbb.ogg" type="video/ogg" />
+    </video>
+    <p>
+      Video courtesy of
+      <a
+        href="https://www.google.com/search?q=video+de+ballena+azul+5+segundos&source=lmns&tbm=vid&bih=961&biw=1140&r"
+        target="_blank"
+        >BLUE WHALE</a
+      >.
+    </p>
 
-
-<script src="script2.js"></script>
-<!--https://www.elpatagonico.com/la-historia-la-ballena-mas-solitaria-del-mundo-n1562106 -->
-<!-- https://www.elperiodico.com/es/medio-ambiente/20221101/ballenas-ingieren-10-millones-trozos-microplasticos-dia-78001600 -->
-<!-- https://upload.wikimedia.org/wikipedia/commons/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg -->
-<!-- video.mp4 -->
-<!-- https://animalesmascotas.com/wp-content/uploads/2016/08/ballena-azul-tipos-ballenas.jpg -->
-
-    </body>
+    <script src="script.js"></script>
+    <!--https://www.elpatagonico.com/la-historia-la-ballena-mas-solitaria-del-mundo-n1562106 -->
+    <!-- https://www.elperiodico.com/es/medio-ambiente/20221101/ballenas-ingieren-10-millones-trozos-microplasticos-dia-78001600 -->
+    <!-- https://upload.wikimedia.org/wikipedia/commons/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg -->
+    <!-- video.mp4 -->
+    <!-- https://animalesmascotas.com/wp-content/uploads/2016/08/ballena-azul-tipos-ballenas.jpg -->
+  </body>
 </html>
