@@ -1,104 +1,129 @@
 <!DOCTYPE html>
-<html lang="es" xml:lang="es" xmlns="http://www.w3.org/1999/xhtml"> 
-    <!-- referido de w3schools  este es el elemento adicional -->
-    <head>
+<html lang="es" xml:lang="es" xmlns="http://www.w3.org/1999/xhtml">
+  <!-- referido de w3schools  este es el elemento adicional -->
+  <head>
+    <title>Galeria de arte</title>
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <!-- agregar tildes con codigo HTML-->
+    <h1>Galeria de Arte</h1>
+    <h2>Obras destacadas</h2>
+    <h3>Registrate y tendras descuentos</h3>
+    <p>Encontraras obras de los siguientes artistas.</p>
+    <ul>
+      <li>Antunez</li>
+      <li>Cienfuegoz</li>
+      <li>Echazarreta</li>
+      <li>Bertini</li>
+      <li>y muchos mas</li>
+    </ul>
+    <!-- listita sin enumeracion jijij -->
+    <h3 class="autores">Obra de Matias Vergara "ARROJO"</h3>
 
-      <title>
-      Galeria de arte
-      </title>
-      <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-      <link rel="stylesheet" href ="style.css">
-    
-    </head>
-<body>
-     <h1>
-    Galeria de Arte
-     </h1>
-    <h2>
-    Obras destacadas 
-    </h2>
-    <h3>
-    Registrate y tendras descuentos
+    <img
+      class="foto"
+      src="./IMG1ARROJO.png"
+      alt="cuadro en tonos celestes"
+      width="300"
+      height="600"
+    />
+    <p>$830.000 ,ANTES $960.000, descuento de $130.000.</p>
+    <button id="inicio">comprar</button><br /><br />
+    <!-- referido de clase anterior -->
+    <h3 class="autores">
+      Obra de Soledad Alsina "FLORES MULTICOLOR"
     </h3>
-    <p>
-    Encontraras obras de los siguientes artistas.
-    </p>
-<ul>
-   <li>
-       Antunez
-   </li>
-   <li>
-       Cienfuegoz
-   </li>
-   <li>
-       Echazarreta
-   </li>
-   <li>
-    Bertini
-   </li>
-   <li>
-    y muchos mas
-   </li>
-</ul>
-<!-- listita sin enumeracion jijij -->
-<h3 class="autores">
-   Obra de Matias Vergara "ARROJO"
-</h3>
+    <img
+      class="foto"
+      src="img2alsina.png"
+      alt="cuadro de flores multicolor"
+    />
+    <p>$2.950.000, ANTES $3.850.000, descuento de $900.000.</p>
 
-<img class="foto" src="IMG1ARROJO.png" alt="cuadro en tonos celestes" width="300" height="600">
-<P>
-    $830.000 ,ANTES $960.000, descuento de $130.000.
-</P>
-<button id="inicio">comprar</button><br /><br />
-<!-- referido de clase anterior -->
-<h3 class="autores">
-    Obra de Soledad Alsina "FLORES MULTICOLOR"
-</h3>
-<img class="foto"  src="img2alsina.png" alt="cuadro de flores multicolor">
-<P>
-    $2.950.000, ANTES $3.850.000, descuento de $900.000.
-</P>
+    <button id="inicio">comprar</button><br /><br />
+    <!--  el boton referido de la clase anterior -->
 
-<button id="inicio">comprar</button><br /><br />
-<!--  el boton referido de la clase anterior -->
+    <div style="background-color: darkgrey; padding: 15px">
+      <!-- referido de https: //www.w3schools.com/html/tryit.asp?filename=tryhtml_responsive_page -->
 
+      <h3>REGISTRATE</h3>
 
-<div style="background-color: darkgrey;padding:15px;">
-<!-- referido de https: //www.w3schools.com/html/tryit.asp?filename=tryhtml_responsive_page -->
-  
-<h3> REGISTRATE</h3>
+      <p>
+        Si te registras tu primera compra tendra un 10% de descuento,
+        ademas te podras enterar de las noticias y mucho mas
+      </p>
+      <form id="formulario">
+        <label for="fname">Nombre:</label>
+        <input
+          type="text"
+          autofocus
+          value="nombre"
+          id="nombre"
+          name="nombre"
+        /><br /><br />
+        <label for="lname">Apellido:</label>
+        <input
+          type="text"
+          autofocus
+          value="Apellido"
+          id="Apellido"
+          name="Apellido"
+        /><br /><br />
+        <label for="fname">Rut:</label>
+        <input
+          type="text"
+          autofocus
+          value="Rut"
+          id="Rut"
+          name="Rut"
+        /><br /><br />
+        <label for="fname">Email:</label>
+        <input
+          type="text"
+          autofocus
+          value="email"
+          id="email"
+          name="email"
+        /><br /><br />
+        <label for="fname">Artistas favoritos:</label>
+        <input
+          type="text"
+          autofocus
+          value="Artistasfavoritos"
+          id="Artistasfavoritos"
+          name="Artistasfavoritos"
+        /><br /><br />
 
-   <p> Si te registras tu primera compra tendra un 10% de descuento, ademas te podras enterar de las noticias y mucho mas </p>
-<form id="formulario">
-   <label for="fname">Nombre:</label>
-   <input type="text" autofocus value="nombre" id="nombre" name="nombre"><br><br>
-   <label for="lname">Apellido:</label>
-   <input type="text" autofocus value="Apellido"id="Apellido" name="Apellido"><br><br>
-   <label for="fname">Rut:</label>
-   <input type="text" autofocus value="Rut" id="Rut" name="Rut"><br><br>
-   <label for="fname">Email:</label>
-   <input type="text" autofocus value="email" id="email" name="email"><br><br>
-   <label for="fname">Artistas  favoritos:</label>
-   <input type="text" autofocus value="Artistasfavoritos" id="Artistasfavoritos" name="Artistasfavoritos"><br><br>
+        <input type="submit" value="Registrarme" id="enviar" />
+        <br /><br />
+      </form>
+      <p id="bienvenide">aun no te registras :o</p>
+    </div>
+    <h3>Te dejamos un video del Museo de Bellas Artes de Houston</h3>
+    <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/embed/O7KQrpLDIdY"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+    ></iframe
+    ><br />
+    <!-- aqui otro elemento adicional -->
+    <a href="https://www.instagram.com/galeriachilena/"
+      >Visita nuestro instagram
+    </a>
 
-   <input type="submit" value="Registrarme" id="enviar"> <br><br>
-  </form>
-<p id="bienvenide">aun no te registras :o</p>
-</div>
-<h3>
-    Te dejamos un video del Museo de Bellas Artes de Houston
-</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7KQrpLDIdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
-<!-- aqui otro elemento adicional -->
-<a href="https://www.instagram.com/galeriachilena/">Visita nuestro instagram </a>
+    <!-- El contenido de la pag web fue referido de esta pagina https://galeriachilena.com/products/arrojo  de aqui saque informacion imagenes -->
 
- <!-- El contenido de la pag web fue referido de esta pagina https://galeriachilena.com/products/arrojo  de aqui saque informacion imagenes -->
+    <p id="demo"></p>
 
- <p id="demo"></p>
-
- <script src=" script.js"> </script>
-
-
-</body>
-
+    <script src=" script.js"></script>
+  </body>
 </html>

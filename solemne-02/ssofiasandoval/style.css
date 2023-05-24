@@ -1,25 +1,23 @@
 body {
-    background-color: rgb(225, 189, 189);
-@media only screen and (width: 100px) 
+  background-color: rgb(225, 189, 189);
+  @media only screen and (width: 100px);
 }
-.foto{
-   width: 600px;
+.foto {
+  width: 600px;
 }
 /* esa fue mi class */
-.autores{
-    color: rgb(233, 10, 192);
+.autores {
+  color: rgb(233, 10, 192);
 }
 /* otra class */
-   * {
-      font-family: "Courier New", Courier, monospace;
-      color:rgb(26, 21, 21)
-    
-  }
-  h1 {
-    color:rgb(247, 247, 247)
-  }
-  
-   p {
-    color:rgb(144, 94, 18)
-  }
-  
+* {
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(26, 21, 21);
+}
+h1 {
+  color: rgb(247, 247, 247);
+}
+
+p {
+  color: rgb(144, 94, 18);
+}
