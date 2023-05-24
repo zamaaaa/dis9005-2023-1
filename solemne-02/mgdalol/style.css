@@ -1,52 +1,53 @@
 body {
-    background-color:rgb(15, 43, 72);
+  background-color: rgb(15, 43, 72);
 }
 h1 {
-    color:rgb(255, 255, 255);
-    font-family:inherit;
-    font-size: 40px;
+  color: rgb(255, 255, 255);
+  font-family: inherit;
+  font-size: 40px;
 }
 p {
-    color: white;
-    font-family:monospace;
-    font-size:medium;
+  color: white;
+  font-family: monospace;
+  font-size: medium;
 }
 p.borde {
-    border-style:solid;
-    border: 2px solid rgba(255, 255, 255, 0.817);
-    border-radius: 8px;
-    padding: 5px;
+  border-style: solid;
+  border: 2px solid rgba(255, 255, 255, 0.817);
+  border-radius: 8px;
+  padding: 5px;
 }
 h2 {
-    color:rgb(249, 221, 221);
-    font-family:inherit;
-    font-size: 20px;
+  color: rgb(249, 221, 221);
+  font-family: inherit;
+  font-size: 20px;
 }
-a:link, a:visited {
-    background-color:orangered;
-    color:rgb(255, 245, 232);
-    padding: 8px 13px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size:small;
+a:link,
+a:visited {
+  background-color: orangered;
+  color: rgb(255, 245, 232);
+  padding: 8px 13px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: small;
 }
-a:hover, a:active {
-    background-color:rgb(255, 0, 0);
-    color: rgb(255, 232, 26);
-    font-size: medium;
+a:hover,
+a:active {
+  background-color: rgb(255, 0, 0);
+  color: rgb(255, 232, 26);
+  font-size: medium;
 }
 a.link {
-    border-style:solid;
-    border: 2px solid rgba(255, 0, 0, 0.817);
-    border-radius: 6px;
+  border-style: solid;
+  border: 2px solid rgba(255, 0, 0, 0.817);
+  border-radius: 6px;
 }
 
-input[type=text] {
-   width: 50%;
-   padding: 2px 8px;
-   margin: 2px 0;
-   box-sizing:border-box;
-   border: none;
- }
-
+input[type="text"] {
+  width: 50%;
+  padding: 2px 8px;
+  margin: 2px 0;
+  box-sizing: border-box;
+  border: none;
+}
