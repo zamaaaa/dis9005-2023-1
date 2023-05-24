@@ -12,8 +12,10 @@ con esto lograremos que nuestro fork esté al día con el original ("up to date"
 
 ![pantallazo de up to date](./github-up-to-date.jpg)
 
-
 PANTALLAZOS PAGINA WEB
 
+![captura 1](./captura1.png)
 
-![alt text]((.
+![captura 2](./captura2.png)
+
+![captura 3](./captura3.png)

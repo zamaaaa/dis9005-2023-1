@@ -1,4 +1,3 @@
-
 console.log("123");
 
 let formulario = document.getElementById("formulario");
@@ -9,17 +8,16 @@ formulario.addEventListener("submit", ingresar);
 function ingresar(event) {
   event.preventDefault();
   console.log("has ingresado");
-  document.getElementById("bienvenida").innerHTML = "hola belleza " + nombre.value;
+  document.getElementById("bienvenida").innerHTML =
+    "hola belleza " + nombre.value;
 }
 
-
 // para un mensaje cuantico
-console.log ( "mensaje" ); //Mostrará el mensaje en forma de error, resaltado en rojo.
+console.log("mensaje"); //Mostrará el mensaje en forma de error, resaltado en rojo.
 
-
-
-let day; 
-// codigo extraido de  https://www.w3schools.com/js/tryit.asp?filename=tryjs_switch
+let day;
+// codigo extraido de https://www.w3schools.com/js/tryit.asp?filename=tryjs_switch
+// OK pero por favor cambiarlo a espanol
 switch (new Date().getDay()) {
   case 0:
     day = "Sunday";
@@ -39,24 +37,7 @@ switch (new Date().getDay()) {
   case 5:
     day = "Friday";
     break;
-  case  6:
+  case 6:
     day = "Saturday";
 }
 document.getElementById("demo").innerHTML = "Today is " + day;
-
-
-// mouseX and mouseY
-
-strokeWeight(3);
-stroke(57, 0, 214);
-fill(0, 210, 247);
-
-
-draw = function() {
-    
-    
-    background(255, 255, 255);
-    
-    ellipse(mouseY, mouseX, 30, 30);
-    
-};
