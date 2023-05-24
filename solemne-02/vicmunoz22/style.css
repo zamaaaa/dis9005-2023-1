@@ -1,27 +1,27 @@
-
 body {
-    background-color: rgba(251, 213, 251, 0.897);
+  background-color: rgba(251, 213, 251, 0.897);
 }
-@media screen  and (max-width: 800px){
-    .colorido {
-        background-color: beige;
-    }
+@media screen and (max-width: 800px) {
+  .colorido {
+    background-color: beige;
+  }
 }
-    
+
 p {
-    color: black;
+  color: black;
 }
 h1 {
-    font-family: sans-serif; color: black;
-    font-size: medium;
+  font-family: sans-serif;
+  color: black;
+  font-size: medium;
 }
 .Victoria {
-    font-weight: 16;
+  font-weight: 16;
 }
 ul {
-    color: black;
+  color: black;
 }
 img {
-    max-width: 500px;
-    height: auto;
+  max-width: 500px;
+  height: auto;
 }
