@@ -23,4 +23,4 @@ function sorpresa() {
     document.body.style.backgroundColor = "salmon";
     document.body.style.color = "purple"
 }
-// cambiar color, letra y pantalla al hacer click en bot&oacute;n https://bobbyhadz.com/blog/javascript-change-background-color-on-click
+// cambiar color, letra y pantalla al hacer click en la frase bot&oacute;n https://bobbyhadz.com/blog/javascript-change-background-color-on-click
