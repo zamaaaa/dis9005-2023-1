@@ -36,3 +36,9 @@ La siguiente fotografia muestra la comparación entre el sitio web en el computa
 
 El siguiente pantallazo muestra el fomuluraio corregido
 
+![foto 1 proceso](./foto8proceso.png)
+
+Link
+https://www.w3schools.com/html/html_lists.asp.
+https://www.w3schools.com/html/html_id.asp
+https://www.w3schools.com/html/html_responsive.asp
