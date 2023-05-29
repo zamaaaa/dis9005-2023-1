@@ -18,7 +18,7 @@ Pantallazos de como se ve la pagina web observada desde la pantalla de un comput
 
 ![foto 1 proceso](./foto2proceso.png)
 
-La siguiente foto muestra el formulario donde se puede ingresar tu nombre y tu raza de mascota favorita
+La siguiente foto muestra el formulario donde se puede ingresar tu nombre y tu raza de mascota favorita (este fue mi primer intento y me fallo)
 
 ![foto 1 proceso](./foto3proceso.png)
 
@@ -30,6 +30,9 @@ En las siguentes ds fotografias se puede observa como reacciona la pagina web en
 
 ![foto 1 proceso](./foto6proceso.png)
 
-La sienguiente fotografia muestra la comparación entre el sitio web en el computador y el un celular
+La siguiente fotografia muestra la comparación entre el sitio web en el computador y el un celular
 
 ![foto 1 proceso](./foto7proceso.png)
+
+El siguiente pantallazo muestra el fomuluraio corregido
+
