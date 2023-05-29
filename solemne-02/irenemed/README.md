@@ -29,3 +29,7 @@ En las siguentes ds fotografias se puede observa como reacciona la pagina web en
 ![foto 1 proceso](./foto5proceso.png)
 
 ![foto 1 proceso](./foto6proceso.png)
+
+La sienguiente fotografia muestra la comparación entre el sitio web en el computador y el un celular
+
+![foto 1 proceso](./foto7proceso.png)
