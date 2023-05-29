@@ -39,12 +39,17 @@
     </div>
     </div>
     <!--agregamos nuevas fotos-->
-        <form class="tipo"><br><br>
+        <form id="formulario" class="tipo"><br><br>
+
             <label for="pf" id="personaje">
                 Personaje favorito:
             </label><br><br>
 <!-- a continuacion agregamos un texto dentro de la barra del formulario para guiar a la gente en que hacer, la pagina de ayuda fuehttps://stackoverflow.com/questions/108207/how-do-i-make-an-html-text-box-show-a-hint-when-empty -->
-            <input type="text" id="pf" name="pf" placeholder="escribelo aqui">
+            <input type="text" id="pf" name="pf" placeholder="escribelo aqui" value="escribeloaqui">
+            <input type="submit" value="enviar" id="enviar" /> 
+            <p id="guardado">
+                aun no envias tu personaje
+            </p>
         </form>
         <script src="script.js"></script>
     </body>
