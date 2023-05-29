@@ -9,6 +9,7 @@ Pantallazos:
 ![pantallazo 5](./5.png)
 
 Correcciónes Hechas:
+<br>
 -addEventListener en donde el texto del form haga un cambio en la página.
 <br>
 -Responsividad del texto en tamaño.
