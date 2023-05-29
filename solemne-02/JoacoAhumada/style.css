@@ -11,7 +11,7 @@ p {
 
 h3 {
   font-family: sans-serif;
-  font-size: 400%;
+  font-size: 3vw;
   margin-left: 970px;
   color: rgb(255, 255, 255);
   max-width: 100%;
@@ -28,7 +28,7 @@ h2 {
   color: whitesmoke;
 }
 
-.escarcha {
+.joaquin {
   font-size: 100px;
   color: rgb(255, 255, 255);
   text-decoration: underline;
@@ -54,6 +54,8 @@ h2 {
 }
 /* Código w3school */
 /* cual link?? */
+/* https://www.w3schools.com/cssref/pr_class_cursor.php */
+/* agregué distintos estilos para cada texto y foto. Así hay más cambios para cada uno. */
 
 img {
   border-radius: 10px;
