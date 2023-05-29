@@ -13,36 +13,56 @@
     <!-- agregar tildes con codigo HTML-->
     <h1>Galer&iacutea de Arte</h1>
     <h2>Obras destacadas</h2>
-    <h3>Reg&iacutestrate y tendras descuentos</h3>
-    <p>Encontraras obras de los siguientes artistas.</p>
+    <h3>Reg&iacutestrate y tendr&aacutes descuentos</h3>
+    <p>Encontrar&aacutes obras de los siguientes artistas.</p>
     <ul>
-      <li>Antunez</li>
+      <li>Ant&uacutenez</li>
       <li>Cienfuegoz</li>
       <li>Echazarreta</li>
       <li>Bertini</li>
       <li>y muchos mas</li>
     </ul>
     <!-- listita sin enumeracion jijij -->
-    <h3 class="autores">Obra de Matias Vergara "ARROJO"</h3>
+    <h3 class="autores">Obra de Mat&iacuteas Vergara "ARROJO"</h3>
 
-    <img
+    <!-- LA IMAGEN NORMAL SE VE ASI PERO SE AÑADIO UN DROPDOWN Y PARA QUE SE VEA NORMAL, SE PUEDE SACAR DE COMENTARIO
+      <img
       class="foto"
       src="./IMG1ARROJO.png"
       alt="cuadro en tonos celestes"
       width="300"
       height="600"
-    />
+    /> -->
+  
+     <!-- de aqui saque y modifiquye para crear mi dropdown https://www.w3schools.com/css/tryit.asp?filename=trycss_dropdown_image -->
+    <div class="dropdown">
+      <img src="./IMG1ARROJO.png" alt="arrojo" width="100" height="50">
+      <div class="dropdown-content">
+      <img src="./IMG1ARROJO.png" alt="arrojo" width="300" height="200">
+      <div class="desc">obra de Arrojo</div>
+      </div>
+
     <p>$830.000 ,ANTES $960.000, descuento de $130.000.</p>
     <button id="inicio">comprar</button><br /><br />
     <!-- referido de clase anterior -->
     <h3 class="autores">
       Obra de Soledad Alsina "FLORES MULTICOLOR"
     </h3>
-    <img
+    <!-- LA IMAGEN NORMAL SE VE ASI PERO SE AÑADIO UN DROPDOWN 
+      <img
       class="foto"
       src="img2alsina.png"
       alt="cuadro de flores multicolor"
-    />
+    /> -->
+    <br><br>
+
+    <div class="dropdown2">
+      <img src="./img2alsina.png" alt="ALSINA" width="100" height="50">
+      <div class="dropdown-content">
+      <img src="./img2alsina.png" alt="ALSINA" width="300" height="200">
+      <div class="desc">obra de Alsina</div>
+      </div>
+      
     <p>$2.950.000, ANTES $3.850.000, descuento de $900.000.</p>
 
     <button id="inicio">comprar</button><br /><br />
@@ -54,8 +74,8 @@
       <h3>REGISTRATE</h3>
 
       <p>
-        Si te registras tu primera compra tendra un 10% de descuento,
-        ademas te podras enterar de las noticias y mucho mas
+        Si te registras tu primera compra tendr&aacute; un 10% de descuento,
+        adem&aacutes te podr&aacutes enterar de las noticias y mucho m&aacutes...
       </p>
       <form id="formulario">
         <label for="fname">Nombre:</label>
@@ -73,14 +93,6 @@
           value="Apellido"
           id="Apellido"
           name="Apellido"
-        /><br /><br />
-        <label for="fname">Rut:</label>
-        <input
-          type="text"
-          autofocus
-          value="Rut"
-          id="Rut"
-          name="Rut"
         /><br /><br />
         <label for="fname">Email:</label>
         <input
@@ -102,7 +114,9 @@
         <input type="submit" value="Registrarme" id="enviar" />
         <br /><br />
       </form>
-      <p id="bienvenide">aun no te registras :o</p>
+      <p class=registrate id="bienvenide">aun no te registras :o</p>
+      <p class=registrate id="suscrito">aun no te suscribes a descuentos y aviso de tus obras favoritas :o</p>
+      <p class=registrate id="preferencias">aun no sabemos tu artistas favoritos :o</p>
     </div>
     <h3>Te dejamos un video del Museo de Bellas Artes de Houston</h3>
     <iframe
@@ -122,8 +136,11 @@
 
     <!-- El contenido de la pag web fue referido de esta pagina https://galeriachilena.com/products/arrojo  de aqui saque informacion imagenes -->
 
-    <p id="demo"></p>
+    <!-- <p class=fecha id="demo"> HOY ES </p>
+    <p clas=fecha id="lv"> de Lunes a Viernes entre 10 am y 18pm puedes visitarnos </p> -->
 
-    <script src=" script.js"></script>
+    <p id="fecha"> nada</p> 
+    
+    <script src="script.js"></script>
   </body>
 </html>
