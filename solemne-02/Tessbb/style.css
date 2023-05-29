@@ -30,3 +30,10 @@ img {
   max-width: 50%;
   height: auto;
 }
+
+/* https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_mediaquery  responsividad de css para celular */ 
+@media only screen and (max-width: 400px) {
+  body {
+    background-color: rgb(211, 163, 240);
+  }
+}
