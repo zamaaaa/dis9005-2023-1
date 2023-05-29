@@ -13,3 +13,7 @@
 ![captura 6](./captura6.png)
 
 ![captura 7](./captura7.png)
+
+![dispositivo 1](./dispositivo1.png)
+
+![dispositivo 2](./dispositivo2.png)
