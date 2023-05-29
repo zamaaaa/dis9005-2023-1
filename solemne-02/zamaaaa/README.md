@@ -10,3 +10,5 @@ Tabla de personajes principales por orden de aparicion y rol dentro del grupo pr
 
 ![Captura 3](./captura3.png)
 Parte interactiva de la pagina con la intencion que la pagina a futuro te reconozca con tu nombre y rol elegido.
+
+se corrigio un texto que decia "HTMLE table" antes de la tabla de personajes, fue eliminado.
