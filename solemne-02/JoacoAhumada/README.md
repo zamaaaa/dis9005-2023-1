@@ -10,7 +10,8 @@ Pantallazos:
 
 Correcciónes Hechas:
 -addEventListener en donde el texto del form haga un cambio en la página.
+<br>
 -Responsividad del texto en tamaño.
-
+<br><br><br>
 Pendiente:
 -Responsividad del texto en márgenes.
