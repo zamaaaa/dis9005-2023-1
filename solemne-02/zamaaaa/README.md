@@ -5,7 +5,7 @@ pantallazos sacados con "shift-comando-4"
 ![captura 1](./captura1.png)
 vista general de la pagina web
 
-![Captura 2](./captura2)
+![Captura 2](./captura2.png)
 Tabla de personajes principales por orden de aparicion y rol dentro del grupo principal.
 
 ![Captura 3](./captura3.png)
