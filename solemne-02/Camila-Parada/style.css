@@ -5,7 +5,7 @@
 
 #diseno {
     background-color: rgb(0, 0, 0);
-    background: url("/solemne02/fondo.jpeg");
+    background: url("./fondo.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
