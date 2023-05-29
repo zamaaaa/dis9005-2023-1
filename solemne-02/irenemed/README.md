@@ -12,10 +12,33 @@ con esto lograremos que nuestro fork esté al día con el original ("up to date"
 
 ![pantallazo de up to date](./github-up-to-date.jpg)
 
+Pantallazos de como se ve la pagina web observada desde la pantalla de un computador
+
 ![foto 1 proceso](./foto1proceso.png)
 
 ![foto 1 proceso](./foto2proceso.png)
 
+La siguiente foto muestra el formulario donde se puede ingresar tu nombre y tu raza de mascota favorita (este fue mi primer intento y me fallo)
+
 ![foto 1 proceso](./foto3proceso.png)
 
 ![foto 1 proceso](./foto4proceso.png)
+
+En las siguentes ds fotografias se puede observa como reacciona la pagina web en un un celular y se muestran los cambios que esta sufre
+
+![foto 1 proceso](./foto5proceso.png)
+
+![foto 1 proceso](./foto6proceso.png)
+
+La siguiente fotografia muestra la comparación entre el sitio web en el computador y el un celular
+
+![foto 1 proceso](./foto7proceso.png)
+
+El siguiente pantallazo muestra el fomuluraio corregido
+
+![foto 1 proceso](./foto8proceso.png)
+
+Link
+https://www.w3schools.com/html/html_lists.asp.
+https://www.w3schools.com/html/html_id.asp
+https://www.w3schools.com/html/html_responsive.asp
