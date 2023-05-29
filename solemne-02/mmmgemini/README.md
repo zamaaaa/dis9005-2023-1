@@ -14,6 +14,8 @@ con esto lograremos que nuestro fork esté al día con el original ("up to date"
 
 ![captura 1](./captura1.png)
 
+![captura 2](./captura2.png) 
+
 referencias:
 - crear mensaje de alerta en js
 https://www.freecodecamp.org/espanol/news/como-crear-un-mensaje-de-alerta-o-ventana-emergente-en-javascript/ 
