@@ -4,9 +4,15 @@ formulario.addEventListener("submit", grabarInfo);
 
 // formulario para completar la letra de la canci&oacute;n 
 
-function grabarInfo() {
+function grabarInfo(event) {
+    event.preventDefault();
     let confirmar = document.getElementById("letra");
-    alert("Muy bien?");
+    if (confirmar.value == "It's always pulling us apart") {
+        alert("oh wow");
+    } else {
+        alert("oh no");
+    }
+   
 }
 function respuesta() {
     document.getElementById("respuesta").innerHTML = "It's always pulling us apart";
