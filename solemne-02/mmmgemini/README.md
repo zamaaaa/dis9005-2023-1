@@ -13,3 +13,10 @@ con esto lograremos que nuestro fork esté al día con el original ("up to date"
 ![pantallazo de up to date](./github-up-to-date.jpg)
 
 ![captura 1](./captura1.png)
+
+referencias:
+- crear mensaje de alerta en js
+https://www.freecodecamp.org/espanol/news/como-crear-un-mensaje-de-alerta-o-ventana-emergente-en-javascript/ 
+
+- crear css responsivo 
+https://www.w3schools.com/css/css_rwd_viewport.asp
