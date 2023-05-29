@@ -1,13 +1,15 @@
 # solemne-02
 
-ir a mi fork del repositorio, y hacer click en "sync fork"
+Mi página tiene como onjetivo informar sobre las cartas del tarot, por ejemplo de que se trata, su orígen y la variedad de diferentes cartas existentes
 
-![pantallazo de sync fork](./github-sync-fork.jpg)
+Pantallazo de como se ve la página desde el celular
+![pantallazo](./Foto5.png)
+![pantallazo](./Foto6)
 
-luego hacer click en el botón verde "update branch"
+Pantallazo de como se ve la consola de la página
+![pantallazo](./Consola.png)
 
-![pantallazo de update branch](./github-update-branch.jpg)
-
-con esto lograremos que nuestro fork esté al día con el original ("up to date")
-
-![pantallazo de up to date](./github-up-to-date.jpg)
+Pantallazo de como se ve la página en el computador
+![pantallazo](./Foto7)
+ 
+ Las imagenes cambian dependiendo si se está viendo desde la pantalla del computador o desde el celular
