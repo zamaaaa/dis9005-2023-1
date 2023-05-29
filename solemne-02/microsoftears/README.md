@@ -9,5 +9,9 @@ he generado un proyecto resposivo el cul cuenta con estilos de texto, uso de tip
 y formularios por parte de js
 la mayoría referenciado por we3schools o proyectos de clase!
 los pantallazos de la pàgfina son los siguientes!
-<img width="2048" alt="cap 1" src="https://github.com/microsoftears/dis9005-2023-1/assets/128400039/6868f5ff-dbbd-41a2-a9c6-39e13e18d97b">
+
+![captura 1](./cap1.png)
+
+![captura 2](./cap2.png)
+
 <img width="525" alt="cap 2" src="https://github.com/microsoftears/dis9005-2023-1/assets/128400039/c369cb98-95f6-49ef-b3af-14bd79014121">
