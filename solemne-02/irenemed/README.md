@@ -20,5 +20,5 @@ La siguiente foto muestra el formulario donde se puede ingresar tu nombre y tu r
 
 ![foto 1 proceso](./foto4proceso.png)
 En las siguentes ds fotografias se puede observa como reacciona la pagina web en un un celular y se muestran los cambios que esta sufre
-[foto 1 proceso](./foto5proceso.png)
-[foto 1 proceso](./foto6proceso.png)
+
+![foto 1 proceso](./foto6proceso.png)
