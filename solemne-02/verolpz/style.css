@@ -30,3 +30,11 @@ h6 {
     serif;
   font-size: medium;
 }
+
+/* segundo párrafo .shihtzu se acorta al 40% cuando la ventana está en 1200px o menos 
+https://www.w3schools.com/html/html_responsive.asp */
+@media screen and (max-width: 1200px) {
+  .shihtzu {
+    width: 40%;
+  }
+}
