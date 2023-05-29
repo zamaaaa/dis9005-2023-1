@@ -7,6 +7,6 @@ con esto lograremos que nuestro fork esté al día con el original ("up to date"
 
 ![pantallazo de up to date](pantallazo_github.png)
 
-![captura 1](pantallazo1.png)
+![captura 1](pantallazo_1.png)
 
-![captura 2](pantallazo2.png)
+![captura 2](pantallazo_2.png)
