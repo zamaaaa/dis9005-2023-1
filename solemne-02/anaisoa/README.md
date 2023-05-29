@@ -4,12 +4,12 @@ Mi página tiene como onjetivo informar sobre las cartas del tarot, por ejemplo 
 
 Pantallazo de como se ve la página desde el celular
 ![pantallazo](./Foto5.png)
-![pantallazo](./Foto6)
+![pantallazo](./Foto6.png)
 
 Pantallazo de como se ve la consola de la página
 ![pantallazo](./Consola.png)
 
 Pantallazo de como se ve la página en el computador
-![pantallazo](./Foto7)
+![pantallazo](./Foto7.png)
  
  Las imagenes cambian dependiendo si se está viendo desde la pantalla del computador o desde el celular
