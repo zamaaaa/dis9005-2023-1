@@ -1,5 +1,6 @@
 body {
     background-color:rgb(15, 43, 72);
+    @media screen {width: 800px}
 }
 h1 {
     color:rgb(255, 255, 255);
