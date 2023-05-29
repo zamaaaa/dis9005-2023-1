@@ -7,3 +7,6 @@
 
 *Visualización de como queda la página al apretar el botón*
 ![captura 3](./captura3.png)
+
+*Página web desde el celular*
+![captura 4](./niallHoran.jpg)
