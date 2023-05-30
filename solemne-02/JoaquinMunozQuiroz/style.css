@@ -1,0 +1,121 @@
+html,
+body {
+    background-color: rgb(239, 239, 240);
+    font-family: "Noto Sans", sans-serif;
+}
+
+/*Todo lo relativo al box que contiene el login y sus ajustes para que se vea contenido dentro de un card */
+#form {
+    width: 400px;
+    margin: 8vh auto 0 auto;
+    padding: 40px;
+    background-color: rgb(253, 253, 253);
+    border-radius: 20px;
+    font-size: 18px;
+}
+
+#form button {
+    padding: 10px;
+    margin-top: 10px;
+    width: 100%;
+    color: white;
+    background-color: rgb(46, 121, 172);
+    border: none;
+    border-radius: 7px;
+}
+
+/*Configuración de las fotos y banner para que sean responsive*/
+.foto {
+    margin: auto;
+    max-width: 93%;
+    padding-left: 40px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+@media (width <=800px) {
+    .foto {
+        display: flex;
+        justify-content: center;
+        margin: auto;
+    }
+}
+
+#banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    margin: 50px auto;
+}
+
+#banner img {
+    width: 100%;
+    height: auto;
+}
+
+/*Cambio de textos, color, etc. Un poco de todo para que se vea bien*/
+.textTitulosH1 {
+    color: rgb(14, 13, 13);
+    font-weight: bolder;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    font-size: 6vw;
+}
+
+@media (width <=800px) {
+    #textTitulosH1 {
+        font-size: 5vw;
+    }
+}
+
+/*Configuración textos más él media para que sean responsive*/
+.textTitulosH3 {
+    color: rgb(14, 13, 13);
+    font-weight: 400;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    font-size: 5vw;
+}
+
+@media (width <=800px) {
+    #textTitulosH3 {
+        font-size: 4vw;
+    }
+}
+
+.textoFoto {
+    font-size: 2.8vw;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    margin: auto;
+}
+
+@media (width <=800px) {
+    .textoFoto {
+        font-size: 3.2vw;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+#textoSub {
+    width: auto;
+    margin: 8vh auto 0 auto;
+    padding: 40px;
+    background-color: rgb(253, 253, 253);
+    border-radius: 0px;
+    font-size: 25px;
+    text-align: center;
+    justify-content: center;
+}
