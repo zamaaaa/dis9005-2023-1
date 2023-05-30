@@ -1,22 +1,35 @@
 # solemne-02
 
-ir a mi fork del repositorio, y hacer click en "sync fork"
+Aspecto general de la pagina en desktop
 
-![pantallazo de sync fork](./github-sync-fork.jpg)
+![Captura 01](./01.png)
 
-luego hacer click en el botón verde "update branch"
+Parte del login de la pagina
 
-![pantallazo de update branch](./github-update-branch.jpg)
+![Captura 02](./2.png)
 
-con esto lograremos que nuestro fork esté al día con el original ("up to date")
+Sección de productos
 
-![pantallazo de up to date](./github-up-to-date.jpg)
+![Captura 03](./3.png)
 
-![captura 01](./01.png)
+Diseño responsive para dispositivos con menor resolución
 
-![captura 02](./02.png)
+![Captura 04](./4.png)
 
-![captura 03](./03.png)
+![Captura 05](./5.png)
 
-![captura 04](./04.png)
-s
+Alerta en caso de solo poner usuario y no contraseña
+
+![Captura 06](./6.png)
+
+Cambio de color del boton por no poner contraseña
+
+![Captura 07](./7.png)
+
+Alerta de bienvenida por logearse correctamente
+
+![Captura 08](./8.png)
+
+Cambio de color del boton por completar los dos datos requeridos de forma correcta
+
+![Captura 09](./9.png)
