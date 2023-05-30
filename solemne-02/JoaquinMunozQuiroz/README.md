@@ -1,10 +1,10 @@
 # solemne-02
 
-Aspecto general de la pagina en desktop
+Aspecto general de la página en desktop
 
 ![Captura 01](./01.png)
 
-Parte del login de la pagina
+Parte del login de la página
 
 ![Captura 02](./2.png)
 
@@ -22,14 +22,14 @@ Alerta en caso de solo poner usuario y no contraseña
 
 ![Captura 06](./6.png)
 
-Cambio de color del boton por no poner contraseña
+Cambio de color del botón por no poner contraseña
 
 ![Captura 07](./7.png)
 
-Alerta de bienvenida por logearse correctamente
+Alerta de bienvenida por registrarse correctamente
 
 ![Captura 08](./8.png)
 
-Cambio de color del boton por completar los dos datos requeridos de forma correcta
+Cambio de color del botón por completar los dos datos requeridos de forma correcta
 
 ![Captura 09](./9.png)
