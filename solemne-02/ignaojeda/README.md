@@ -2,7 +2,7 @@
 
 ## Pantallazos proceso
 
-![img ss1](./CapProc1)
+![pantallazo proceso](./CapProc1)
 ![pantallazo proceso](./CapProc2)
 ![pantallazo proceso](./CapProc3)
 ![pantallazo proceso](./CapProc4)
