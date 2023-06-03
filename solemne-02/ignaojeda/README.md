@@ -16,3 +16,9 @@
 ![imagen3](./huillin-3.jpg)
 ![imagen4](./huillin-4.jpg)
 ![imagen5](./huillin1-1.jpg)
+Links usados
+https://lineadecodigo.com/javascript/cambiar-dinamicamente-una-imagen-con-javascript/
+https://www.maullinsantuario.cl/valor-ecologico/huillin
+https://www.w3schools.com/js/tryit.asp?filename=tryjs_events2
+https://www.w3schools.com/cssref/pr_text_text-align.php
+https://youtu.be/a7mRQe5c-Wg
