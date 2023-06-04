@@ -29,13 +29,10 @@ function cambiar(){
   }
 
 
-  
-  // captura del ID y declaracion del contexto
 var box = document.getElementById('box');
 var papel = box.getContext('2d');
 
-/* declaracion de variables la variable estado es para verificar si el mouse esta en movimiento
-las prevx y prevy son la posicion previa de x y y, las currX y currY son las posiciones actuales */
+/* declaracion de variables la variable estado es para verificar si el mouse esta en movimiento */
 var estado= false,
     prevX = 0,
     currX = 0,
@@ -46,7 +43,6 @@ var estado= false,
 var x = "black",
     y = 2;
 
-    //agregamos los manejadores de eventos, 1 por cada accion del mouse.
 
     box.addEventListener("mousemove", function (e) {
         encontrarxy('move', e)
@@ -61,7 +57,7 @@ var x = "black",
         encontrarxy('out', e)
     }, false);
 
-    // declarar la funcion para dibujar los pixeles.
+    // funcion para dibujar los pixeles.
 
     function dibujar() {
         papel.beginPath();
@@ -93,10 +89,10 @@ var x = "black",
             }
         }
         if (res == 'up' || res == "out") {
-            estado = false; // si se levanta el click del mouse el estado pasa a false
+            estado = false; // si se levanta el click del mouse pasa a false
         }
         if (res == 'move') {
-            if (estado) { // si el mouse se mueve el  estado esta en true y se ejecuta la funcion dibujar
+            if (estado) { // si el mouse se mueve esta en true y se ejecuta la funcion dibujar
                 prevX = currX;
                 prevY = currY;
                 currX = e.clientX - box.offsetLeft;
