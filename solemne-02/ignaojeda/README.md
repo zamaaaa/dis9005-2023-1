@@ -13,6 +13,10 @@
 ![pantallazo proceso](./CapProc9)
 ![pantallazo proceso](./CapProc10)
 ![pantallazo proceso](./CapProc11)
+![pantallazo proceso](./CapProc12)
+![pantallazo proceso](./CapProc13)
+![pantallazo proceso](./CapProc13)
+![pantallazo proceso](./CapProc15)
 
 ## Imágenes usadas
 
