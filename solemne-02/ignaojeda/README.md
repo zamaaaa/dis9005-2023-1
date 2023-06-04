@@ -29,3 +29,4 @@
 3. https://www.w3schools.com/js/tryit.asp?filename=tryjs_events2
 4. https://www.w3schools.com/cssref/pr_text_text-align.php
 5. https://youtu.be/a7mRQe5c-Wg
+6. https://codepen.io/alexcu21/pen/GEoqWj
