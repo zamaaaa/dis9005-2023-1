@@ -2,21 +2,21 @@
 
 ## Pantallazos proceso
 
-![pantallazo proceso](./CapProc1)
-![pantallazo proceso](./CapProc2)
-![pantallazo proceso](./CapProc3)
-![pantallazo proceso](./CapProc4)
-![pantallazo proceso](./CapProc5)
-![pantallazo proceso](./CapProc6)
-![pantallazo proceso](./CapProc7)
-![pantallazo proceso](./CapProc8)
-![pantallazo proceso](./CapProc9)
-![pantallazo proceso](./CapProc10)
-![pantallazo proceso](./CapProc11)
-![pantallazo proceso](./CapProc12)
-![pantallazo proceso](./CapProc13)
-![pantallazo proceso](./CapProc13)
-![pantallazo proceso](./CapProc15)
+![pantallazo proceso](./CapProc1.png)
+![pantallazo proceso](./CapProc2.png)
+![pantallazo proceso](./CapProc3.png)
+![pantallazo proceso](./CapProc4.png)
+![pantallazo proceso](./CapProc5.png)
+![pantallazo proceso](./CapProc6.png)
+![pantallazo proceso](./CapProc7.png)
+![pantallazo proceso](./CapProc8.png)
+![pantallazo proceso](./CapProc9.png)
+![pantallazo proceso](./CapProc10.png)
+![pantallazo proceso](./CapProc11.png)
+![pantallazo proceso](./CapProc12.png)
+![pantallazo proceso](./CapProc13.png)
+![pantallazo proceso](./CapProc13.png)
+![pantallazo proceso](./CapProc15.png)
 
 ## Imágenes usadas
 
