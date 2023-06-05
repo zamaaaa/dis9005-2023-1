@@ -28,6 +28,8 @@ https://threejs.org/ visualizaciones en 3d
 
 https://www.gatsbyjs.com/ para programar cosas pequeñas
 
+https://www.edx.org/ revisar cursos de python
+
 en las paginas se puede revisar el codigo fuente y ver con que plantilla esta hecha la pagina web
 
 datos extras
