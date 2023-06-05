@@ -3,7 +3,7 @@ apuntes de trabajos
 google jobs para revisa trabajos y filtrar horarios o lugares 
 
 careers.google para buscar trabajo en google (https://careers.google.com/)
-Inscribirse con correo personal, pero hay que tener un curriculum (degree Bachelor's Degree - Other)
+Inscribirse con correo personal, pero hay que tener un curriculum (degree: Bachelor's Degree - Other)
 (de prefernecia escribir todo en ingles)
 
 buscando trabajos "intern"(practica), "early career" (carrera temparna) es un trabajo el cual se entiende que es tu primer trabajo.
@@ -20,8 +20,17 @@ https://www.squarespace.com/websites-start/?channel=pbr&subchannel=go&campaign=p
 
 https://www.shopify.com/mx/prueba-gratis?term=shopify&adid=565809829180&campaignid=15436645120&branded_enterprise=1&BOID=brand&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0z0ysACO1bGoGIYiOYypog5Vz3H-6K3jZdKZhKauURtbZ76rtMJhpcaAhdyEALw_wcB&cmadid=516586683;cmadvertiserid=10730501;cmcampaignid=26990768;cmplacementid=324494383;cmcreativeid=163722649;cmsiteid=5500011 shopify plantillas de paginas web 
 
-en las pagiasn se puede revisar el codigo fuente y ver con que plantilla esta hecha la pagina web
+https://www.figma.com/ para prototipar paginas web tipo bosuqejo y la pagina hace el codigo por detras 
 
-**datos extras** 
+https://d3js.org/ pagra hacer graficos con java script 
+
+https://threejs.org/ visualizaciones en 3d 
+
+https://www.gatsbyjs.com/ para programar cosas pequeñas
+
+en las paginas se puede revisar el codigo fuente y ver con que plantilla esta hecha la pagina web
+
+datos extras
 (reactJS)
 (revisar wordpress)
+(revisar si las paginas tienen convenios para estudiantes)
