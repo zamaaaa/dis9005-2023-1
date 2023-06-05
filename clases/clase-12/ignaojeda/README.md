@@ -15,6 +15,7 @@ Googlr Jobs: Se pueden buscar trabajos y crear una cuenta para luego poder busca
 - Coursera (Ej cursos: Ingles / escritura tesis)
 - Curso en Google: Goglee Ux Design certificated (curso que idealmente hagamos, nos servira mucho)
 - Edx: Lo creo MIT y Harvard, hacen cursos de certificación de muy buen nivel
+
 -> Hacer certificados se ve como que tiene iniciativa, que quiere hacer más, esta interesada, es una persona que no se va a quedar quieta
 
 # Importante
