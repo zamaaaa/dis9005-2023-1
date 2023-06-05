@@ -7,12 +7,18 @@
     />
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="style.css" />
-    <title>el Huill&iacute;n</title>
+    <title>El Huill&iacute;n</title>
   </head>
-
+  <h1>Antes de partir, ¿que te imaginas por un Huillín? Dibujalo!</h1>
+  <canvas id="box" width="2000" height="500"></canvas>
   <body>
+    <!--esto lo saque de https://codepen.io/alexcu21/pen/GEoqWj -->
     <h1>La Nutria del r&iacute;o (lontra provocax)</h1>
-    <img src="huillin-1.jpg" style="max-width: 100%; height: auto" />
+    <img src="huillin-1.jpg" id="matrix" style="max-width: 100%; height: auto" />
+    <a href="#" onmouseover="cambiar();" onmouseout="volver();">Pasa sobre mi y ve la imagen...</a>
+    
+    <!--esto lo saque de https://lineadecodigo.com/javascript/cambiar-dinamicamente-una-imagen-con-javascript/ -->
+
     <p class="linea-1">
       Mam&iacute;fero acu&aacute;tico que habita en r&iacute;os de la
       Patagonia, desde la Regi&oacute;n de la Araucan&iacute;a en
@@ -45,14 +51,14 @@
     <!--imagen rescatada de https://www.maullinsantuario.cl/valor-ecologico/huillin -->
     <div class="contenedor-imagenes">
       <div class="imagen">
-        <img src="huillin-2.jpg" width="300" height="350" />
+        <img src="huillin-2.jpg" width="300" height="300" />
       </div>
 
       <div class="imagen">
-        <img src="huillin-3.jpg" width="300" height="350" />
+        <img src="huillin-3.jpg" width="300" height="300" />
       </div>
       <div class="imagen">
-        <img src="huillin-4.jpg" width="300" height="350" />
+        <img src="huillin-4.jpg" width="300" height="300" />
       </div>
     </div>
     <button id="myBtn">Presiona para saber la hora</button>
@@ -84,4 +90,5 @@
 
     <script src="script.js"></script>
   </body>
+
 </html>

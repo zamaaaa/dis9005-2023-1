@@ -7,39 +7,20 @@
     <meta charset="UTF-8" />
   </head>
   <body>
-    <h2>HAZ CLICK ABAJO</h2>
-    <!-- cual es la fuente de donde sacaste este boton?
-el event listener de click, quiero que vaya en script.js, no aqui -->
-    <button
-      type="button"
-      onclick="document.getElementById('demo').innerHTML = Date()"
-    >
-      Click me to display Date and Time.
-    </button>
-
-    <p id="demo"></p>
-
+    
     <form id="formulario">
-      <label for="fname">nombre:</label>
-      <input
-        type="text"
-        autofocus
-        id="fname"
-        value="nombre"
-      /><br /><br />
-      <label for="lname">apellido:</label>
-      <input type="text" id="lname" name="lname" /><br /><br />
-      <input type="submit" value="Ingresar" />
+      <label for="nombre">nombre:</label><br>
+      <input type="text" id="nombre" name="NOMBRE" value="consuelo"><br>
+      <label for="APELLIDO">equipo:</label><br>
+      <input type="text" id="APELLIDO" name="APELLIDO" value="Mesa"><br><br>
+      <input type="submit" value="ingresar">
     </form>
-    <br /><br />
-    <button id="inicio">Aquí</button>
+    <p id="bienvenida">aun no</p>
 
+    
     <h3 style="color: rgb(255, 255, 255)">
       LA BALLENA AZUL: EL ANIMAL M&Aacute;S GRANDE DEL MUNDO
-    </h3>
-
-    <img
-      src="https://images5.alphacoders.com/412/412348.jpg"
+    </h3> <img src="https://images5.alphacoders.com/412/412348.jpg"
       style="max-width: 100%"
       class="zoom-in"
     />
@@ -60,16 +41,25 @@ el event listener de click, quiero que vaya en script.js, no aqui -->
       src="https://verdeyazul.diarioinformacion.com/wp-content/uploads/2021/09/blue_whale_2_small.jpg"
       style="max-width: 100%"
     />
-    <h1>Comparaci&oacute;n de ballenas Ac&aacute; abajo</h1>
+    <h1>Foto tomada por dron de la ballena azul</h1>
     <!-- <img src="https://animalesmascotas.com/wp-content/uploads/2016/08/ballena-azul-tipos-ballenas.jpg"  -->
 
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg"
       style="max-width: 100%"
-    />
-    <video width="1000" controls>
-      <source src="mov_bbb.mp4" type="video/mp4" />
-      <source src="mov_bbb.ogg" type="video/ogg" />
+    /><br>
+  
+
+
+    <h5>
+      Video informativo de la ballena azul 
+      abajo
+    </h5>
+  
+    <video width="800" height="1000" autoplay muted>
+      <source src="file:///Users/curso/Desktop/solemne2/Ballenaazul.mp4" type="video/mp4">
+      <source src="file:///Users/curso/Desktop/solemne2/Ballenaazul.mp4" type="video/ogg">
+      Your browser does not support the video tag.
     </video>
     <p>
       Video courtesy of
@@ -80,11 +70,42 @@ el event listener de click, quiero que vaya en script.js, no aqui -->
       >.
     </p>
 
+    <style>
+      .pagination {
+        display: inline-block;
+      }
+      
+      .pagination a {
+        color: rgb(255, 255, 255);
+        float: left;
+        padding: 8px 16px;
+        text-decoration: none;
+      }
+      </style>
+      </head>
+      <body>
+      
+      <h2>Ver m&aacute;s</h2>
+      
+      <div class="pagination">
+        <a href="#">&laquo;</a>
+        <a href="#">1</a>
+        <a href="#">2</a>
+        <a href="#">3</a>
+        <a href="#">4</a>
+        <a href="#">5</a>
+        <a href="#">6</a>
+        <a href="#">&raquo;</a>
+      </div>
     <script src="script.js"></script>
     <!--https://www.elpatagonico.com/la-historia-la-ballena-mas-solitaria-del-mundo-n1562106 -->
     <!-- https://www.elperiodico.com/es/medio-ambiente/20221101/ballenas-ingieren-10-millones-trozos-microplasticos-dia-78001600 -->
     <!-- https://upload.wikimedia.org/wikipedia/commons/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg -->
     <!-- video.mp4 -->
     <!-- https://animalesmascotas.com/wp-content/uploads/2016/08/ballena-azul-tipos-ballenas.jpg -->
+
+    <!-- Ordene todo el html, desde la entrega pasada y borre varias cosas que estaban de sobra  -->
+    <!-- Agregue seguimiento de páginas al final -->
+    <!-- Todas las imagenes puestas son de varias perspectivas de la ballena, para que se logre ver bien -->
   </body>
 </html>
