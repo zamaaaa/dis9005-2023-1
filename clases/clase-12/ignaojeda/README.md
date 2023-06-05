@@ -8,6 +8,7 @@ Googlr Jobs: Se pueden buscar trabajos y crear una cuenta para luego poder busca
 # Referentes 
 - Encora: Empresa de servicios de ingenieria digital global, se puede buscar trabajo para trabajar desde Chile pero para Canada (por ejemplo)
 - Google summer of code (Programa global, trabajo para estudiantes online)
+- nytco.com : Para buscar trabajo en el New York Times
 
 # Referentes de certificaciones online
 - Becas Santander (Udemy)
