@@ -1,32 +1,23 @@
-body {
-  background-color: rgb(250, 250, 240);
-}
-h1 {
-  color: #1c6da6;
-  font-size: xx-large;
-  font-family: display;
-}
-h2 {
-  color: #000000;
-  font-size: large;
-  font-family: display;
-}
-h3 {
-  color: rgb(0, 0, 0);
-  font-family: Papyrus;
-}
-p {
-  color: rgb(0, 0, 0);
-  font-size: medium;
-}
+// inspirado en https://github.com/disenoUDP/dis9005-2023-1/blob/main/clases/clase-09/Tessbb/script.js
+console.log("probando");
+let martha = document.getElementById("myBtn");
+console.log(martha);
 
-/* esto era un error, porque es codigo JS y lo comente */
-/* martha.style.backgroundColor = 'pink' */
+martha.addEventListener("myBtn", cambiarColor);
 
-/* responsividad de https://www.w3schools.com/css/css_rwd_mediaqueries.asp */
-/* a esto le faltaba unos murcielagos {} y los agregue */
-@media only screen and (max-width: 600px) {
-  body {
-    background-color: rgb(172, 243, 255);
-  }
+function cambiarColor() {
+  console.log("probando");
+  martha.style.backgroundColor = "pink";
 }
+document.getElementById("myBtn")
+  .addEventListener("click", function () {
+    alert("Elige el que mejor se adapte a tu personalidad");
+  });
+  const btn = document.getElementById('myBtn');
+
+  btn.addEventListener('click', function onClick() {
+    btn.style.backgroundColor = 'salmon';
+    btn.style.color = 'white';
+    // TEXTO SACADO DE https://bobbyhadz.com/blog/javascript-change-button-color-onclick#change-a-buttons-color-onclick-in-javascript
+  });
+  

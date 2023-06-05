@@ -1,22 +1,30 @@
 body {
-  background-color: #a2b4ac;
+    background-color: #a2b4ac;
 }
 h1 {
-  color: #353a34;
-  font-family: sans-serif;
+    color: #353a34;
+    font-family: sans-serif;
 }
 h4 {
-  color: #b24202;
-  font-family: sans-serif;
+    color: #b24202;
+    font-family: sans-serif;
 }
 h2 {
-  color: #353a34;
-  font-family: sans-serif;
+    color: #353a34;
+    font-family: sans-serif;
 }
 p {
-  color: #353a34;
-  font-family: sans-serif;
+    color: #353a34;
+    font-family: sans-serif;
 }
 .color {
-  color: brown;
+    color: brown;
 }
+@media screen and (max-width: 800px) {
+    .color {
+        background-color: #755565;
+        color: #ceb0ab;
+        width: 100%;
+    }
+}
+/* Responsividad con css https://www.w3schools.com/html/tryit.asp?filename=tryhtml_responsive_media_query */

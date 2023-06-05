@@ -12,3 +12,13 @@
 ![pantallazo 5](./cap-5.png)
 -alerta que salta al ingresar el formulario en el celular
 ![pantallazo 6](./cap-6.png)
+-correcion en clases en el escritorio
+![pantallazo 7](./cap-7.png)
+-cambio de alerta con javascript (responsivo)
+![pantallazo 8](./cap-8.png)
+-pagina responsiva con css en el telefono
+![pantallazo 9](./cap-9.png)
+-formulario en el cel
+![pantallazo 10](./cap-10.png)
+-alerta en el telefono 
+![pantallazo 11](./cap-11.png)
