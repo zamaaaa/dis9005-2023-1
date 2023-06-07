@@ -1,56 +1,74 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0"
-    />
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" 
+        content="width=device-width, initial-scale=1.0" />
     <!-- Codigo rescatado de https://www.w3schools.com/html/html_responsive.asp -->
-    <link rel="stylesheet" href="./style.css" />
+        <link rel="stylesheet" href="style.css">
     <!-- Codigo rescatado de solenme 1 -->
-    <title>Zorros Felices</title>
-  </head>
+        <title>
+            Zorros Felices 
+        </title>
+    
+        
+    </head>
 
-  <body>
-    <h1>
-      <img src="./zorro.jpg" style="width: 100%" />
-      <!--  -->
-      <!-- img sacada de https://www.expertoanimal.com/curiosidades-de-los-zorros-26004.html  -->
-      <form id="formulario">
-        <label for="nombre">nombre:</label><br />
-        <input
-          type="text"
-          id="nombre"
-          name="nombre"
-          value="Nombre lindo"
-        /><br />
-        <input type="submit" value="ingresar" />
-      </form>
-      <p id="bienvenida">:3</p>
-      <!-- codigo rescadado de montoyamoraga https://github.com/menteneon/dis9005-2023-1/tree/main/solemne-02/montoyamoraga-->
-      Los zorros son muy felices
-    </h1>
-    <p>
-      Buenas tardes mundo, hablaremos sobre los zorros, zorros de todo
-      tipo. Se defienden porque son muy lindos y geniales,
-      adem&aacute;s de que se r&iacute;en muy genial
-    </p>
+    <body>
+        <h1 id="titulo1">
+        <img src="zorro.jpg" style="width:100%;">
+        <!--  -->
+        <!-- img sacada de https://www.expertoanimal.com/curiosidades-de-los-zorros-26004.html  -->
+            <form id="formulario">
+                <label for="nombre">nombre:</label><br>
+                <input 
+                type="text" 
+                id="nombre" name="nombre" 
+                value="Nombre lindo">
+                <br>
+                <input type="submit" value="ingresar">
+              </form>
+              <p id="bienvenida">:3</p>
+            <!-- codigo rescadado de montoyamoraga https://github.com/menteneon/dis9005-2023-1/tree/main/solemne-02/montoyamoraga-->
+            Los zorros son muy felices 
+        </h1>
+        <p id="parrafo1">
+            Buenas tardes mundo, hablaremos sobre los zorros, 
+            zorros de todo tipo.
+             Se defienden porque son 
+            muy lindos y geniales, adem&aacute;s de que 
+            se r&iacute;en muy genial 
+        </p>
 
-    <p class="five">
-      <!-- codigo rescatado de https://www.w3schools.com/css/tryit.asp?filename=trycss_border-widths  -->
-      Ver im&aacute;genes de zorros te har&aacute;n una sonrisa
-    </p>
-    <a href="https://www.youtube.com/watch?v=QnMumKDc_6g">
-      Enlace zorros riendose
-    </a>
-    <br /><br />
+        <p class="five" id="parrafo2">
+            <!-- codigo rescatado de https://www.w3schools.com/css/tryit.asp?filename=trycss_border-widths  -->
+          Ver im&aacute;genes de zorros te har&aacute;n una sonrisa  
+        </p>
 
-    <!-- Elemento "a" sacado de mi cuaderno -->
-    <button id="mijuanin">Fecha y hora :D</button>
+        <a href="https://www.youtube.com/watch?v=QnMumKDc_6g">
+             Enlace zorros riendose
+             </a> 
+             <br><br>
 
-    <p id="demo"></p>
+        <!-- Elemento "a" sacado de mi cuaderno -->
+        
 
-    <script src="./script.js"></script>
-  </body>
+        <p></p>
+
+        <script src="./script.js">
+      
+        </script>
+        <form name="form_main">
+            <label for="date_ini">Fecha Inicial: </label> 
+            <input name="fechaInicial" id="date_ini" type="date" value="22/05/2023"> <br>
+            <label for="date_end">Fecha de hoy: </label> 
+            <input name="fechaFinal" id="date_end" type="date"> <br>
+          
+            <label for="days">Dias pasados: </label> 
+            <span id="days"></span> <br>
+          
+            <button type="button" onclick="countDays()">Contar</button>
+            <!-- codigo rescatado de https://dev.to/walternascimentobarroso/day-counter-with-javascript-3545#:~:text=In%20this%20function%20(%20countDays(),ready%20as%20simple%20as%20that. -->
+          </form>
+    </body>
 </html>

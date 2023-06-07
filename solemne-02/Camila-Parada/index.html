@@ -1,68 +1,43 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Camila Parada V&aacute;squez | Home</title>
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
-    <!-- Recuperado de: https://simonsepulveda.com/ (línea 6) -->
-    <link
-      rel="icon"
-      type="image/x-icon"
-      href="./andwalshlogoinverse.png"
-    />
-    <!-- Elemento nuevo aplicado | Recuperado de: https://www.w3schools.com/html/html_favicon.asp -->
-  </head>
+    <head>
+        <title>Camila Parada V&aacute;squez | Home</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+        <!-- Recuperado de: https://simonsepulveda.com/ (línea 6) -->
+        <link rel="icon" type="image/x-icon" href="./andwalshlogoinverse.png">
+        <!-- Elemento nuevo aplicado | Recuperado de: https://www.w3schools.com/html/html_favicon.asp -->
+    </head>
 
-  <body id="diseno">
-    <br />
-    <div class="left"></div>
-    <div class="main">
-      <link rel="stylesheet" href="style.css" />
-      <!-- Recuperado de: Solemne 01 - Camila Parada -->
-      <h1 class="titulo">Camila Parada V&aacute;squez</h1>
-      <img
-        src="https://64.media.tumblr.com/c19bba323127b4c8fe3a24d182fd2de9/tumblr_os4hiinpUF1ula1ggo1_1280.png"
-        class="img-main"
-        id="variedades"
-      />
-      <!-- Recuperado de: https://kabocharomance.tumblr.com/post/162251718647/little-sweet-poison -->
-      <br />
-      <button id=" button" onclick="changeImage()">
-        Change image
-      </button>
-      <h2 class="subtitulo">about</h2>
-      <p class="presentacion">
-        I'm a person who tries to live peacefully. My pastimes are the
-        graphic design, the illustration and listen german electro
-        music based in touhou, a popular japanese videogame.
-      </p>
-      <br />
-      <h2 class="subtitulo">contact</h2>
-      <form id="formulario" class="formulario">
-        <label for="mail">Email</label>
-        <input
-          type="text"
-          autofocus
-          value="write your address"
-          id="mail"
-          name="mail"
-        /><br /><br />
-        <label for="message">Message</label>
-        <input
-          type="text"
-          autofocus
-          value="what do you want to write?"
-          id="message"
-          name="message"
-        /><br /><br />
-        <input type="submit" value="Send" /><br /><br />
-      </form>
-      <br />
-    </div>
-    <div class="right"></div>
-    <script src="./script.js"></script>
-    <!-- Recuperado de: trabajo de la clase 15/05    -->
-  </body>
+    <body id="diseno">
+        <br>
+        <div class="left"></div>
+        <div class="main">
+            <link rel="stylesheet" href="style.css">
+            <!-- Recuperado de: Solemne 01 - Camila Parada -->
+            <h1 class="titulo" style="font-size:12vw"> Camila Parada V&aacute;squez </h1>
+            <img src="https://64.media.tumblr.com/c19bba323127b4c8fe3a24d182fd2de9/tumblr_os4hiinpUF1ula1ggo1_1280.png" class="img-main" id="variedades">
+            <!-- Recuperado de: https://kabocharomance.tumblr.com/post/162251718647/little-sweet-poison -->
+            <br>
+            <div class="text-center">
+                <button id="button" onclick="changeImage()">Change image</button>    
+            </div>
+            <br>
+            <h2 class="subtitulo">about </h2>
+            <p class="presentacion"> I'm a person who tries to live peacefully. My pastimes are the graphic design, the illustration and listen german electro music based in touhou, a popular japanese videogame. </p>
+            <br>
+            <h2 class="subtitulo">contact</h2>
+            <br>
+            <form id="formulario" class="formulario">
+              <label for="mail">Email</label>
+              <input type="text" autofocus value="write your address" id="mail" name="mail"><br><br>
+              <label for="message">Message</label>
+              <input type="text" autofocus value="what do you want to write?" id="message" name="message"><br><br>
+              <input id="enviar" type="submit" value="Send" onclick="redirect()"><br><br>
+            </form>    
+             <!-- Recuperado de: trabajo de la clase 15/05    -->   
+            <br>
+        </div>
+        <div class="right"></div>
+        <script src="./script.js"></script>
+    </body>
 </html>

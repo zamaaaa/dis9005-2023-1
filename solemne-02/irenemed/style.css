@@ -9,8 +9,25 @@ h5 {
 ol {
   font-family: sans-serif;
 }
+/* Codigo e informacion sacada de https://www.w3schools.com/html/html_responsive.asp */
+/*  La funcion resposiva funciona para celulares cambiando la lista ordenada y los elementos que la componen*/
+@media screen and (max-width: 800px) {
+  ol {
+    background-color: steelblue;
+   }
+ }
+ @media screen and (max-width: 800px) {
+  li {
+    color: white;
+  }
+}
 img {
   width: 30%;
+}
+@media screen and (max-width: 800px) {
+  img {
+    width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
+  }
 }
 .p1 {
   background-color: rgb(173, 230, 204);
@@ -34,3 +51,4 @@ img {
   font-family: sans-serif;
   font-weight: 400;
 }
+

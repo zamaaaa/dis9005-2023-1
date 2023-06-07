@@ -1,6 +1,8 @@
 // Informacion sacada de lo que trabaje en clase anteriores
+// Mensaje en la consola
 console.log("Bienvenido al mundo doglover");
 
+// boton que cabian al contacto con el raton
 console.log("probando");
 let botonInicio = document.getElementById("inicio");
 console.log(botonInicio);
@@ -21,5 +23,6 @@ function ingresar(event) {
   event.preventDefault();
   console.log("has ingresado");
   document.getElementById("bienvenida").innerHTML =
-    "hola tu " + nombre.value;
+    "Gracias por visitar esta pagina " + nombre.value;
+    alert("Que genial " + raza.value)
 }
