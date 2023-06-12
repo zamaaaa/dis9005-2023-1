@@ -1,0 +1,12 @@
+APUNTES:
+- https://summerofcode.withgoogle.com/
+- https://www.coderhouse.cl/?gclid=Cj0KCQjwj_ajBhCqARIsAA37s0yecm78kD0nIfskyD8nNc74UFpa2EtmMPNv0a4pHjm3Zl0bc_BQSBkaAuQuEALw_wcB
+- https://www.shopify.com/mx/prueba-gratis?term=shpify&adid=573309815404&campaignid=15436645120&branded_enterprise=1&BOID=brand&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0yK_OHYZRSy_Jlp7elUaYTQIVDsByjT0ENUPe6XLqYNEnq2M67vTuEaAkodEALw_wcB&cmadid=516586683;cmadvertiserid=10730501;cmcampaignid=26990768;cmplacementid=324494383;cmcreativeid=163722649;cmsiteid=5500011
+- https://d3js.org/
+- https://es.squarespace.com/
+- https://grow.google/
+- https://www.udemy.com/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Generic_la.ES_cc.LATAM&utm_content=deal4584&utm_term=_._ag_139722840148_._ad_654210330883_._kw_coursea_._de_c_._dm__._pl__._ti_kwd-310013943283_._li_1003325_._pd__._&matchtype=e&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0wA0o_3anDAsCelEC1PuhrOJ7EqYOkHh4BDroemw3B20UnlDo3X5rQaAmXPEALw_wcB
+- https://careers.google.com/
+- https://threejs.org/
+- https://wordpress.com/es/
+- 
