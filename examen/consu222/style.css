@@ -1,0 +1,23 @@
+    body {
+        background-color: rgb(232, 188, 252)
+    }
+
+    h1 {
+        font-family: Verdana;
+    }
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+
+    div.a {
+        text-align: center;
+    }
+
+
+
+    /* centre la imgen principal de mariposa morada agregando en css .center y los que aparece abajo */
+    /* Centre texto ocupando div.a text align center y repitiendo div.a en html */
