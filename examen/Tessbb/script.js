@@ -38,3 +38,8 @@ function miembros(evt, posisiones) {
 }
 
 // en el java script hay elementos que podria haber cambiado, pero no los cambie por que no quise romper el codigo
+
+// https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_console_log mensaje en la consola
+
+console.log ("Por si acaso SHINee es un grupo de kpop");
+
