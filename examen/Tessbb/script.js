@@ -36,3 +36,5 @@ function miembros(evt, posisiones) {
   document.getElementById(posisiones).style.display = "block";
   evt.currentTarget.className += " active";
 }
+
+// en el java script hay elementos que podria haber cambiado, pero no los cambie por que no quise romper el codigo
