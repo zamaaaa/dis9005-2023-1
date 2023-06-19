@@ -8,7 +8,7 @@
 ![pantallazo 3](./Cap3.PNG)
 - si uno baja mas hay una imagen que es responsiva y rota para mostrar texto en la parte de atras
 ![pantallazo 4](./Cap4.PNG)
--galeria de imagenes, es la discografia del grupo 
+-galeria de imagenes responsiva con el tamaño de la pantalla, ademas de tener un boton el cual hace que suba la pagina al inicio de esta
 ![pantallazo 5](./Cap5.PNG)
 -la version final de la pagina con una tabla rsponsiva, la cual cambia al posarse sobre los nombres de los miembros de SHINee
 ![pantallazo 6](./Cap6.PNG)
